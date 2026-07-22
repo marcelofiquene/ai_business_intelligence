@@ -4,7 +4,7 @@
 ![OpenAI](https://img.shields.io/badge/OpenAI-gpt--4o--mini-green?style=flat-square&logo=openai)
 ![Power BI](https://img.shields.io/badge/Power_BI-Dashboard-yellow?style=flat-square&logo=powerbi)
 
-Trabalho acadêmico avaliativo desenvolvido para a pós-graduação **Data Analytics e Inteligência Artificial Aplicada a Negócios** - **FNAT** (Fundação de Negócios, Analytics e Tecnologia), disciplina de *AI Business Intelligence*.
+Trabalho acadêmico avaliativo desenvolvido para a pós-graduação **Data Analytics e Inteligência Artificial Aplicada a Negócios** - **FNAT** (Fundação de Negócios, Analytics e Tecnologia)
 
 ---
 
