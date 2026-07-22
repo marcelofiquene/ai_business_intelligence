@@ -1,0 +1,1001 @@
+﻿id_avaliacao;data;canal;regiao;loja;nota;categoria;texto_avaliacao;sentimento;tema_principal
+AV0001;15/04/2023;loja_fisica;Norte;VLR-AM-01;3;vestuario;A numeração do calçado não bateu exatamente. Meu 38 usual ficou apertado.;neutro;tamanho e caimento
+AV0002;28/01/2023;loja_fisica;Sudeste;VLR-SP-04;2;vestuario;Botão saiu na primeira semana. Acabamento muito ruim.;negativo;qualidade do produto
+AV0003;13/06/2023;loja_fisica;Nordeste;VLR-PB-01;3;vestuario;Produto agradável, mas o acabamento poderia ser melhor.;neutro;qualidade do produto
+AV0004;25/01/2024;loja_fisica;Centro-Oeste;VLR-GO-03;5;vestuario;A qualidade do tecido é incrível, vale cada centavo.;positivo;qualidade do produto
+AV0005;08/05/2023;app;Centro-Oeste;VLR-DF-01;5;vestuario;Ótimo custo-benefício. Produto de qualidade a um preço justo.;positivo;preço
+AV0006;22/12/2024;loja_fisica;Sul;VLR-RS-01;5;calcados;Produto de ótima qualidade, superou minhas expectativas!;positivo;qualidade do produto
+AV0007;14/04/2023;site;Nordeste;VLR-PB-01;5;vestuario;Preço competitivo para a qualidade que entrega. Muito satisfeita!;positivo;preço
+AV0008;17/11/2024;app;Sudeste;VLR-RJ-01;3;vestuario;Demorou mais do que o prazo informado no site. Precisei acompanhar pelo SAC.;neutro;entrega
+AV0009;24/01/2024;app;Norte;VLR-AM-01;2;vestuario;O processo de troca é muito lento e burocrático.;negativo;troca e devolução
+AV0010;20/11/2023;site;Centro-Oeste;VLR-GO-02;5;calcados;Preço competitivo para a qualidade que entrega. Muito satisfeita!;positivo;preço
+AV0011;26/05/2024;loja_fisica;Norte;VLR-RO-01;5;vestuario;Comprei durante a promoção e foi um excelente negócio.;positivo;preço
+AV0012;21/08/2024;loja_fisica;Nordeste;VLR-RN-01;3;vestuario;Comprei esperando mais. Não é ruim, mas também não encantou.;neutro;qualidade do produto
+AV0013;04/04/2023;loja_fisica;Sudeste;VLR-SP-03;5;vestuario;Produto de ótima qualidade, superou minhas expectativas!;positivo;qualidade do produto
+AV0014;30/01/2024;app;Nordeste;VLR-PE-01;5;calcados;Comprei durante a promoção e foi um excelente negócio.;positivo;preço
+AV0015;28/04/2023;loja_fisica;Sul;VLR-PR-01;4;calcados;Recebi em dois dias, muito mais rápido do que esperava. Ótimo serviço!;positivo;entrega
+AV0016;27/09/2023;loja_fisica;Norte;VLR-MA-01;2;acessorios;A costura soltou depois da primeira lavagem. Muito decepcionante.;negativo;qualidade do produto
+AV0017;15/06/2023;site;Centro-Oeste;VLR-GO-02;4;vestuario;Produto premium com um acabamento impecável. Adorei!;positivo;qualidade do produto
+AV0018;11/11/2023;app;Centro-Oeste;VLR-GO-03;2;acessorios;A costura soltou depois da primeira lavagem. Muito decepcionante.;negativo;qualidade do produto
+AV0019;12/03/2023;site;Nordeste;VLR-BA-02;5;calcados;Caiu certinho! A tabela de tamanhos é muito precisa.;positivo;tamanho e caimento
+AV0020;13/09/2024;app;Nordeste;VLR-BA-03;5;vestuario;Vale muito o preço. Produto durável e bonito.;positivo;qualidade do produto
+AV0021;18/11/2024;site;Sul;VLR-SC-02;5;vestuario;Produto chegou no prazo e bem embalado. Exatamente como na foto.;positivo;entrega
+AV0022;25/08/2024;app;Sul;VLR-PR-02;3;vestuario;Gostei do produto mas esperava mais pelo valor que paguei.;neutro;preço
+AV0023;02/02/2023;loja_fisica;Norte;VLR-AM-01;5;vestuario;Chegou antes do prazo! Embalagem caprichada e produto em perfeito estado.;positivo;entrega
+AV0024;07/08/2024;loja_fisica;Sul;VLR-SC-01;5;vestuario;Escolhi pelo guia de medidas e ficou perfeito. Recomendo seguir a tabela.;positivo;tamanho e caimento
+AV0025;05/11/2024;site;Nordeste;VLR-CE-01;5;vestuario;Preço competitivo para a qualidade que entrega. Muito satisfeita!;positivo;preço
+AV0026;23/10/2024;loja_fisica;Sudeste;VLR-SP-01;5;calcados;Produto de ótima qualidade, superou minhas expectativas!;positivo;qualidade do produto
+AV0027;14/07/2023;app;Sudeste;VLR-SP-02;5;vestuario;Escolhi pelo guia de medidas e ficou perfeito. Recomendo seguir a tabela.;positivo;tamanho e caimento
+AV0028;19/03/2023;loja_fisica;Nordeste;VLR-CE-01;3;acessorios;Comprei esperando mais. Não é ruim, mas também não encantou.;neutro;qualidade do produto
+AV0029;31/08/2023;loja_fisica;Norte;VLR-MA-01;5;acessorios;A moça da loja foi incrível, paciente e me deu ótimas sugestões.;positivo;atendimento
+AV0030;03/01/2023;app;Sudeste;VLR-SP-01;5;vestuario;Preço competitivo para a qualidade que entrega. Muito satisfeita!;positivo;preço
+AV0031;13/05/2024;loja_fisica;Sudeste;VLR-MG-01;5;calcados;Equipe super prestativa e simpática. Me senti muito bem atendida.;positivo;atendimento
+AV0032;18/11/2023;loja_fisica;Centro-Oeste;VLR-DF-01;1;vestuario;Paguei e não recebi. Já se passaram 30 dias e nenhuma solução.;negativo;entrega
+AV0033;04/06/2024;app;Sul;VLR-PR-03;5;vestuario;Material excelente, muito bem acabado. Recomendo demais!;positivo;qualidade do produto
+AV0034;06/08/2024;app;Norte;VLR-AM-01;4;vestuario;Fui muito bem atendida. A equipe conhece bem os produtos.;positivo;atendimento
+AV0035;29/07/2023;loja_fisica;Sul;VLR-RS-01;2;acessorios;O processo de troca é muito lento e burocrático.;negativo;troca e devolução
+AV0036;16/03/2023;loja_fisica;Centro-Oeste;VLR-GO-03;5;vestuario;Nunca me decepcionei com a qualidade dos produtos da Valore. Sempre perfeito.;positivo;qualidade do produto
+AV0037;02/06/2024;site;Sul;VLR-PR-02;5;vestuario;Entrega rápida e produto embalado com cuidado. Aprovadíssimo!;positivo;entrega
+AV0038;24/03/2024;site;Centro-Oeste;VLR-GO-03;5;vestuario;Tamanho exatamente como descrito. Ficou ótimo.;positivo;tamanho e caimento
+AV0039;14/11/2024;app;Centro-Oeste;VLR-DF-01;5;vestuario;Escolhi pelo guia de medidas e ficou perfeito. Recomendo seguir a tabela.;positivo;tamanho e caimento
+AV0040;20/07/2024;site;Norte;VLR-PA-01;2;acessorios;A qualidade não condiz com o valor cobrado. Produto muito frágil.;negativo;qualidade do produto
+AV0041;28/09/2023;app;Centro-Oeste;VLR-GO-02;5;calcados;Escolhi pelo guia de medidas e ficou perfeito. Recomendo seguir a tabela.;positivo;tamanho e caimento
+AV0042;11/10/2023;site;Centro-Oeste;VLR-GO-01;5;calcados;Produto de ótima qualidade, superou minhas expectativas!;positivo;qualidade do produto
+AV0043;28/03/2024;site;Centro-Oeste;VLR-GO-03;4;vestuario;Tamanho exatamente como descrito. Ficou ótimo.;positivo;tamanho e caimento
+AV0044;14/01/2024;loja_fisica;Norte;VLR-PA-02;5;vestuario;Tamanho exatamente como descrito. Ficou ótimo.;positivo;tamanho e caimento
+AV0045;10/02/2023;loja_fisica;Nordeste;VLR-CE-03;1;acessorios;Péssima qualidade. O produto veio com defeito de fábrica.;negativo;qualidade do produto
+AV0046;21/02/2024;app;Nordeste;VLR-RN-01;3;acessorios;Gostei do produto mas esperava mais pelo valor que paguei.;neutro;preço
+AV0047;07/12/2023;site;Nordeste;VLR-PE-01;5;vestuario;Vale muito o preço. Produto durável e bonito.;positivo;preço
+AV0048;26/04/2024;loja_fisica;Centro-Oeste;VLR-MT-01;5;acessorios;Equipe super prestativa e simpática. Me senti muito bem atendida.;positivo;atendimento
+AV0049;06/11/2024;loja_fisica;Sudeste;VLR-SP-04;5;vestuario;A moça da loja foi incrível, paciente e me deu ótimas sugestões.;positivo;atendimento
+AV0050;05/06/2024;loja_fisica;Centro-Oeste;VLR-GO-03;1;vestuario;Não consegui cancelar o pedido. O SAC é inoperante.;negativo;atendimento
+AV0051;29/09/2023;loja_fisica;Sul;VLR-SC-02;1;vestuario;Paguei e não recebi. Já se passaram 30 dias e nenhuma solução.;negativo;entrega
+AV0052;07/06/2024;loja_fisica;Sul;VLR-RS-01;5;vestuario;Nunca me decepcionei com a qualidade dos produtos da Valore. Sempre perfeito.;positivo;qualidade do produto
+AV0053;05/07/2024;loja_fisica;Sul;VLR-RS-02;1;vestuario;Me enviaram o produto de outra pessoa. Uma bagunça total.;negativo;entrega
+AV0054;10/11/2024;loja_fisica;Sudeste;VLR-RJ-01;5;calcados;A qualidade do tecido é incrível, vale cada centavo.;positivo;qualidade do produto
+AV0055;21/07/2024;loja_fisica;Sul;VLR-RS-02;4;calcados;Equipe super prestativa e simpática. Me senti muito bem atendida.;positivo;atendimento
+AV0056;05/11/2023;app;Sudeste;VLR-SP-03;3;calcados;Comprei esperando mais. Não é ruim, mas também não encantou.;neutro;qualidade do produto
+AV0057;28/03/2024;loja_fisica;Norte;VLR-RO-01;3;vestuario;Produto mediano. Para o preço cobrado, esperava mais acabamento.;neutro;qualidade do produto
+AV0058;10/12/2023;app;Nordeste;VLR-PI-01;3;calcados;Tive que trocar de tamanho. A numeração parece inconsistente entre os modelos.;neutro;tamanho e caimento
+AV0059;01/05/2024;loja_fisica;Centro-Oeste;VLR-GO-01;3;vestuario;O caimento não ficou como na foto, mas o produto tem boa qualidade de material.;neutro;tamanho e caimento
+AV0060;07/09/2023;site;Sudeste;VLR-RJ-02;4;vestuario;Atendimento nota 10! A vendedora foi muito atenciosa e me ajudou a escolher o tamanho certo.;positivo;atendimento
+AV0061;24/07/2024;site;Norte;VLR-AP-01;2;vestuario;A costura soltou depois da primeira lavagem. Muito decepcionante.;negativo;qualidade do produto
+AV0062;01/09/2024;loja_fisica;Sudeste;VLR-MG-01;4;acessorios;Produto chegou no prazo e bem embalado. Exatamente como na foto.;positivo;entrega
+AV0063;15/07/2024;site;Sul;VLR-RS-02;5;calcados;Vale muito o preço. Produto durável e bonito.;positivo;preço
+AV0064;17/06/2024;app;Sudeste;VLR-ES-01;5;vestuario;Vale muito o preço. Produto durável e bonito.;positivo;preço
+AV0065;24/11/2023;loja_fisica;Centro-Oeste;VLR-GO-02;5;vestuario;Caiu certinho! A tabela de tamanhos é muito precisa.;positivo;tamanho e caimento
+AV0066;07/03/2023;loja_fisica;Nordeste;VLR-BA-03;4;calcados;Escolhi pelo guia de medidas e ficou perfeito. Recomendo seguir a tabela.;positivo;tamanho e caimento
+AV0067;03/02/2024;app;Centro-Oeste;VLR-GO-02;3;calcados;A numeração do calçado não bateu exatamente. Meu 38 usual ficou apertado.;neutro;tamanho e caimento
+AV0068;05/03/2024;app;Sudeste;VLR-SP-05;5;calcados;Tamanho exatamente como descrito. Ficou ótimo.;positivo;tamanho e caimento
+AV0069;22/03/2024;site;Sul;VLR-RS-03;5;vestuario;Ótimo custo-benefício. Produto de qualidade a um preço justo.;positivo;preço
+AV0070;23/04/2024;loja_fisica;Sudeste;VLR-RJ-02;5;calcados;Fui muito bem atendida. A equipe conhece bem os produtos.;positivo;atendimento
+AV0071;14/03/2024;loja_fisica;Sul;VLR-PR-01;4;vestuario;A moça da loja foi incrível, paciente e me deu ótimas sugestões.;positivo;atendimento
+AV0072;12/12/2023;loja_fisica;Nordeste;VLR-CE-01;4;vestuario;Escolhi pelo guia de medidas e ficou perfeito. Recomendo seguir a tabela.;positivo;tamanho e caimento
+AV0073;23/02/2023;loja_fisica;Sudeste;VLR-SP-01;2;calcados;O processo de troca é muito lento e burocrático.;negativo;troca e devolução
+AV0074;24/07/2023;site;Norte;VLR-MA-01;4;acessorios;Produto premium com um acabamento impecável. Adorei!;positivo;qualidade do produto
+AV0075;12/08/2023;loja_fisica;Nordeste;VLR-BA-02;4;calcados;Tamanho exatamente como descrito. Ficou ótimo.;positivo;tamanho e caimento
+AV0076;28/04/2023;site;Centro-Oeste;VLR-MS-01;2;acessorios;A qualidade não condiz com o valor cobrado. Produto muito frágil.;negativo;qualidade do produto
+AV0077;23/07/2023;app;Norte;VLR-AC-01;5;vestuario;Produto premium com um acabamento impecável. Adorei!;positivo;qualidade do produto
+AV0078;04/05/2023;loja_fisica;Nordeste;VLR-PB-01;5;calcados;Caiu certinho! A tabela de tamanhos é muito precisa.;positivo;tamanho e caimento
+AV0079;16/12/2023;app;Centro-Oeste;VLR-GO-01;4;vestuario;Nunca me decepcionei com a qualidade dos produtos da Valore. Sempre perfeito.;positivo;qualidade do produto
+AV0080;15/04/2024;loja_fisica;Sudeste;VLR-ES-01;5;acessorios;A moça da loja foi incrível, paciente e me deu ótimas sugestões.;positivo;atendimento
+AV0081;05/07/2024;app;Nordeste;VLR-CE-02;5;calcados;Comprei durante a promoção e foi um excelente negócio.;positivo;preço
+AV0082;30/03/2023;site;Sudeste;VLR-RJ-01;4;acessorios;Produto chegou no prazo e bem embalado. Exatamente como na foto.;positivo;entrega
+AV0083;30/01/2023;site;Nordeste;VLR-PI-01;4;vestuario;Escolhi pelo guia de medidas e ficou perfeito. Recomendo seguir a tabela.;positivo;tamanho e caimento
+AV0084;02/09/2024;app;Nordeste;VLR-CE-02;3;vestuario;Demorou mais do que o prazo informado no site. Precisei acompanhar pelo SAC.;neutro;atendimento
+AV0085;15/05/2024;app;Norte;VLR-AM-01;2;calcados;Botão saiu na primeira semana. Acabamento muito ruim.;negativo;qualidade do produto
+AV0086;09/12/2024;loja_fisica;Sudeste;VLR-SP-05;1;vestuario;Me enviaram o produto de outra pessoa. Uma bagunça total.;negativo;atendimento
+AV0087;17/07/2024;loja_fisica;Sul;VLR-RS-01;4;vestuario;Recebi em dois dias, muito mais rápido do que esperava. Ótimo serviço!;positivo;entrega
+AV0088;20/11/2023;loja_fisica;Sudeste;VLR-SP-02;3;calcados;A numeração do calçado não bateu exatamente. Meu 38 usual ficou apertado.;neutro;tamanho e caimento
+AV0089;21/06/2024;loja_fisica;Nordeste;VLR-CE-02;5;calcados;Escolhi pelo guia de medidas e ficou perfeito. Recomendo seguir a tabela.;positivo;tamanho e caimento
+AV0090;15/01/2023;site;Norte;VLR-RO-01;3;vestuario;Qualidade razoável para o preço. Não é ruim, mas já vi melhor.;neutro;preço
+AV0091;17/05/2024;site;Norte;VLR-PA-02;4;calcados;Produto de ótima qualidade, superou minhas expectativas!;positivo;qualidade do produto
+AV0092;22/02/2023;loja_fisica;Sul;VLR-RS-01;4;vestuario;Produto chegou no prazo e bem embalado. Exatamente como na foto.;positivo;entrega
+AV0093;03/12/2024;site;Norte;VLR-PA-01;3;calcados;Tive que trocar de tamanho. A numeração parece inconsistente entre os modelos.;neutro;tamanho e caimento
+AV0094;02/05/2023;site;Nordeste;VLR-BA-02;5;acessorios;Escolhi pelo guia de medidas e ficou perfeito. Recomendo seguir a tabela.;positivo;tamanho e caimento
+AV0095;29/03/2024;app;Sul;VLR-RS-02;4;vestuario;Entrega dentro do prazo e rastreamento funcionou perfeitamente.;positivo;entrega
+AV0096;12/04/2023;loja_fisica;Sudeste;VLR-MG-02;5;acessorios;Equipe super prestativa e simpática. Me senti muito bem atendida.;positivo;atendimento
+AV0097;10/06/2023;app;Centro-Oeste;VLR-GO-02;2;calcados;Aguardei mais de 20 dias por um pedido com prazo de 7 dias.;negativo;entrega
+AV0098;24/12/2024;app;Sudeste;VLR-SP-01;4;vestuario;Produto chegou no prazo e bem embalado. Exatamente como na foto.;positivo;entrega
+AV0099;11/07/2024;app;Norte;VLR-AM-01;5;vestuario;Equipe super prestativa e simpática. Me senti muito bem atendida.;positivo;atendimento
+AV0100;01/09/2024;site;Centro-Oeste;VLR-GO-02;1;calcados;Fui humilhada na loja. Nunca mais coloco os pés aqui.;negativo;atendimento
+AV0101;27/05/2024;loja_fisica;Sudeste;VLR-RJ-02;5;acessorios;Escolhi pelo guia de medidas e ficou perfeito. Recomendo seguir a tabela.;positivo;tamanho e caimento
+AV0102;10/09/2024;loja_fisica;Sudeste;VLR-RJ-02;1;calcados;Produto horrível. Desfiou logo na primeira semana de uso.;negativo;qualidade do produto
+AV0103;19/11/2024;loja_fisica;Norte;VLR-MA-01;5;acessorios;Entrega dentro do prazo e rastreamento funcionou perfeitamente.;positivo;entrega
+AV0104;12/10/2023;site;Norte;VLR-AP-01;2;calcados;Botão saiu na primeira semana. Acabamento muito ruim.;negativo;qualidade do produto
+AV0105;17/11/2024;site;Sudeste;VLR-RJ-02;4;vestuario;Material excelente, muito bem acabado. Recomendo demais!;positivo;qualidade do produto
+AV0106;17/07/2024;loja_fisica;Centro-Oeste;VLR-DF-01;4;acessorios;Nunca me decepcionei com a qualidade dos produtos da Valore. Sempre perfeito.;positivo;qualidade do produto
+AV0107;02/01/2023;loja_fisica;Norte;VLR-AC-01;3;acessorios;Produto agradável, mas o acabamento poderia ser melhor.;neutro;qualidade do produto
+AV0108;22/02/2023;loja_fisica;Norte;VLR-RR-01;4;calcados;Atendimento excelente na loja. Voltarei com certeza!;positivo;atendimento
+AV0109;07/10/2024;loja_fisica;Sul;VLR-RS-03;3;vestuario;Gostei do produto mas esperava mais pelo valor que paguei.;neutro;preço
+AV0110;27/04/2023;app;Centro-Oeste;VLR-GO-01;4;vestuario;Caiu certinho! A tabela de tamanhos é muito precisa.;positivo;tamanho e caimento
+AV0111;01/03/2024;app;Nordeste;VLR-RN-01;5;calcados;Comprei durante a promoção e foi um excelente negócio.;positivo;preço
+AV0112;04/06/2024;app;Nordeste;VLR-CE-01;2;acessorios;A costura soltou depois da primeira lavagem. Muito decepcionante.;negativo;qualidade do produto
+AV0113;03/06/2024;site;Centro-Oeste;VLR-GO-03;5;acessorios;Chegou antes do prazo! Embalagem caprichada e produto em perfeito estado.;positivo;entrega
+AV0114;16/05/2024;app;Centro-Oeste;VLR-MS-01;5;acessorios;A moça da loja foi incrível, paciente e me deu ótimas sugestões.;positivo;atendimento
+AV0115;26/11/2023;app;Sul;VLR-RS-02;3;vestuario;Gostei do produto mas esperava mais pelo valor que paguei.;neutro;preço
+AV0116;29/04/2024;loja_fisica;Sul;VLR-RS-02;5;vestuario;Comprei durante a promoção e foi um excelente negócio.;positivo;preço
+AV0117;06/12/2023;app;Nordeste;VLR-RN-01;1;acessorios;Comprei online e o produto simplesmente desapareceu. Rastreamento parou.;negativo;entrega
+AV0118;01/11/2024;app;Norte;VLR-PA-02;4;vestuario;Atendimento nota 10! A vendedora foi muito atenciosa e me ajudou a escolher o tamanho certo.;positivo;atendimento
+AV0119;27/10/2024;site;Sudeste;VLR-MG-02;3;calcados;Esperava um tamanho M padrão mas veio maior do que o habitual.;neutro;tamanho e caimento
+AV0120;06/02/2023;loja_fisica;Sul;VLR-RS-03;3;acessorios;Tive que trocar de tamanho. A numeração parece inconsistente entre os modelos.;neutro;tamanho e caimento
+AV0121;10/10/2024;site;Centro-Oeste;VLR-MT-01;5;acessorios;Nunca me decepcionei com a qualidade dos produtos da Valore. Sempre perfeito.;positivo;qualidade do produto
+AV0122;27/02/2023;app;Nordeste;VLR-BA-01;5;vestuario;Recebi em dois dias, muito mais rápido do que esperava. Ótimo serviço!;positivo;entrega
+AV0123;04/07/2023;loja_fisica;Centro-Oeste;VLR-MT-01;3;calcados;Gostei do produto mas esperava mais pelo valor que paguei.;neutro;preço
+AV0124;20/08/2024;app;Norte;VLR-AM-01;3;vestuario;Gostei do produto mas esperava mais pelo valor que paguei.;neutro;preço
+AV0125;21/04/2024;app;Sudeste;VLR-ES-01;4;vestuario;Entrega dentro do prazo e rastreamento funcionou perfeitamente.;positivo;entrega
+AV0126;10/03/2024;loja_fisica;Nordeste;VLR-MA-02;5;vestuario;Produto chegou no prazo e bem embalado. Exatamente como na foto.;positivo;qualidade do produto
+AV0127;26/01/2024;loja_fisica;Centro-Oeste;VLR-MT-01;4;vestuario;Entrega dentro do prazo e rastreamento funcionou perfeitamente.;positivo;entrega
+AV0128;09/01/2023;site;Centro-Oeste;VLR-DF-01;3;vestuario;A numeração do calçado não bateu exatamente. Meu 38 usual ficou apertado.;neutro;tamanho e caimento
+AV0129;27/12/2023;site;Sudeste;VLR-SP-04;5;calcados;Equipe super prestativa e simpática. Me senti muito bem atendida.;positivo;atendimento
+AV0130;04/10/2024;loja_fisica;Sul;VLR-PR-03;5;calcados;A qualidade do tecido é incrível, vale cada centavo.;positivo;qualidade do produto
+AV0131;30/10/2023;loja_fisica;Sudeste;VLR-SP-03;4;vestuario;Produto chegou no prazo e bem embalado. Exatamente como na foto.;positivo;entrega
+AV0132;07/10/2023;loja_fisica;Nordeste;VLR-CE-03;5;vestuario;Atendimento excelente na loja. Voltarei com certeza!;positivo;atendimento
+AV0133;24/04/2024;site;Sudeste;VLR-RJ-01;3;calcados;Tive que trocar de tamanho. A numeração parece inconsistente entre os modelos.;neutro;tamanho e caimento
+AV0134;24/07/2024;site;Nordeste;VLR-PE-01;5;acessorios;Chegou antes do prazo! Embalagem caprichada e produto em perfeito estado.;positivo;entrega
+AV0135;19/11/2024;loja_fisica;Sudeste;VLR-RJ-03;4;vestuario;Entrega dentro do prazo e rastreamento funcionou perfeitamente.;positivo;entrega
+AV0136;27/04/2024;site;Sudeste;VLR-SP-02;5;calcados;Produto premium com um acabamento impecável. Adorei!;positivo;qualidade do produto
+AV0137;20/04/2024;loja_fisica;Sul;VLR-PR-02;4;calcados;Produto chegou no prazo e bem embalado. Exatamente como na foto.;positivo;entrega
+AV0138;29/04/2023;loja_fisica;Norte;VLR-TO-01;5;acessorios;Material excelente, muito bem acabado. Recomendo demais!;positivo;qualidade do produto
+AV0139;08/06/2023;loja_fisica;Sul;VLR-RS-02;4;calcados;Tamanho exatamente como descrito. Ficou ótimo.;positivo;tamanho e caimento
+AV0140;15/01/2024;site;Norte;VLR-TO-01;4;vestuario;A moça da loja foi incrível, paciente e me deu ótimas sugestões.;positivo;atendimento
+AV0141;12/01/2024;site;Sudeste;VLR-SP-02;5;acessorios;Tamanho exatamente como descrito. Ficou ótimo.;positivo;tamanho e caimento
+AV0142;10/04/2024;loja_fisica;Centro-Oeste;VLR-GO-01;3;acessorios;Tive que trocar de tamanho. A numeração parece inconsistente entre os modelos.;neutro;tamanho e caimento
+AV0143;09/05/2023;site;Sul;VLR-RS-01;1;vestuario;O atendente do SAC foi extremamente grosseiro e não resolveu nada.;negativo;atendimento
+AV0144;27/08/2023;site;Norte;VLR-AM-01;4;calcados;Entrega rápida e produto embalado com cuidado. Aprovadíssimo!;positivo;entrega
+AV0145;07/07/2024;loja_fisica;Sul;VLR-PR-03;5;acessorios;Entrega rápida e produto embalado com cuidado. Aprovadíssimo!;positivo;entrega
+AV0146;01/09/2023;app;Norte;VLR-MA-01;1;vestuario;Fui humilhada na loja. Nunca mais coloco os pés aqui.;negativo;atendimento
+AV0147;07/03/2023;loja_fisica;Norte;VLR-AC-01;1;vestuario;Cancelamento negado mesmo dentro do prazo legal. Absurdo.;negativo;troca e devolução
+AV0148;21/09/2024;app;Centro-Oeste;VLR-MS-01;2;vestuario;Não recebi no prazo e o rastreamento ficou parado por dias.;negativo;entrega
+AV0149;16/02/2024;app;Centro-Oeste;VLR-GO-01;5;acessorios;Ótimo custo-benefício. Produto de qualidade a um preço justo.;positivo;preço
+AV0150;01/06/2023;app;Sudeste;VLR-SP-02;4;vestuario;Material excelente, muito bem acabado. Recomendo demais!;positivo;qualidade do produto
+AV0151;03/09/2024;app;Centro-Oeste;VLR-DF-01;4;vestuario;Produto chegou no prazo e bem embalado. Exatamente como na foto.;positivo;entrega
+AV0152;28/10/2024;app;Sul;VLR-PR-02;1;acessorios;O atendente do SAC foi extremamente grosseiro e não resolveu nada.;negativo;atendimento
+AV0153;13/02/2024;app;Sudeste;VLR-RJ-01;2;calcados;SAC demorou 4 dias para me responder e não resolveu meu problema.;negativo;atendimento
+AV0154;06/06/2023;loja_fisica;Norte;VLR-TO-01;3;vestuario;Qualidade ok mas não é tão boa quanto parece nas fotos.;neutro;qualidade do produto
+AV0155;17/01/2024;site;Norte;VLR-PA-01;2;calcados;A costura soltou depois da primeira lavagem. Muito decepcionante.;negativo;qualidade do produto
+AV0156;12/11/2024;site;Sul;VLR-PR-02;4;vestuario;Tamanho exatamente como descrito. Ficou ótimo.;positivo;tamanho e caimento
+AV0157;03/06/2024;site;Norte;VLR-RO-01;4;vestuario;Equipe super prestativa e simpática. Me senti muito bem atendida.;positivo;atendimento
+AV0158;13/10/2023;loja_fisica;Sudeste;VLR-MG-01;2;vestuario;Botão saiu na primeira semana. Acabamento muito ruim.;negativo;qualidade do produto
+AV0159;04/11/2024;site;Sul;VLR-PR-01;5;calcados;Chegou antes do prazo! Embalagem caprichada e produto em perfeito estado.;positivo;entrega
+AV0160;05/07/2023;loja_fisica;Nordeste;VLR-CE-03;5;vestuario;Fui muito bem atendida. A equipe conhece bem os produtos.;positivo;atendimento
+AV0161;27/06/2024;loja_fisica;Sudeste;VLR-SP-01;5;vestuario;A moça da loja foi incrível, paciente e me deu ótimas sugestões.;positivo;atendimento
+AV0162;04/08/2024;app;Sudeste;VLR-SP-05;2;calcados;Meu pedido chegou com 12 dias de atraso e sem nenhuma comunicação.;negativo;entrega
+AV0163;29/03/2024;loja_fisica;Nordeste;VLR-PI-01;4;vestuario;Escolhi pelo guia de medidas e ficou perfeito. Recomendo seguir a tabela.;positivo;tamanho e caimento
+AV0164;24/04/2023;loja_fisica;Sul;VLR-PR-02;3;vestuario;Demorou mais do que o prazo informado no site. Precisei acompanhar pelo SAC.;neutro;entrega
+AV0165;05/09/2024;app;Sul;VLR-PR-01;4;vestuario;Produto de ótima qualidade, superou minhas expectativas!;positivo;qualidade do produto
+AV0166;24/10/2023;loja_fisica;Nordeste;VLR-BA-03;3;calcados;O produto chegou, mas demorou quase o dobro do prazo previsto.;neutro;entrega
+AV0167;21/12/2024;app;Norte;VLR-PA-02;3;vestuario;Qualidade razoável para o preço. Não é ruim, mas já vi melhor.;neutro;qualidade do produto
+AV0168;21/03/2023;loja_fisica;Norte;VLR-AC-01;5;vestuario;Entrega dentro do prazo e rastreamento funcionou perfeitamente.;positivo;entrega
+AV0169;19/02/2024;app;Sudeste;VLR-RJ-02;5;vestuario;A qualidade do tecido é incrível, vale cada centavo.;positivo;qualidade do produto
+AV0170;06/01/2024;site;Nordeste;VLR-PB-01;4;calcados;Nunca me decepcionei com a qualidade dos produtos da Valore. Sempre perfeito.;positivo;qualidade do produto
+AV0171;14/11/2023;loja_fisica;Norte;VLR-AP-01;4;vestuario;Entrega rápida e produto embalado com cuidado. Aprovadíssimo!;positivo;entrega
+AV0172;06/06/2024;site;Centro-Oeste;VLR-DF-01;1;vestuario;Me enviaram o produto de outra pessoa. Uma bagunça total.;negativo;atendimento
+AV0173;30/05/2023;app;Centro-Oeste;VLR-GO-02;5;vestuario;Entrega rápida e produto embalado com cuidado. Aprovadíssimo!;positivo;entrega
+AV0174;05/10/2024;app;Nordeste;VLR-PI-01;5;vestuario;Comprei durante a promoção e foi um excelente negócio.;positivo;preço
+AV0175;04/10/2024;site;Sul;VLR-RS-01;4;acessorios;Entrega rápida e produto embalado com cuidado. Aprovadíssimo!;positivo;entrega
+AV0176;28/08/2024;loja_fisica;Sudeste;VLR-SP-05;4;calcados;A qualidade do tecido é incrível, vale cada centavo.;positivo;qualidade do produto
+AV0177;21/10/2023;loja_fisica;Sul;VLR-PR-01;4;vestuario;Produto de ótima qualidade, superou minhas expectativas!;positivo;qualidade do produto
+AV0178;08/08/2024;app;Sul;VLR-PR-01;3;vestuario;Qualidade razoável para o preço. Não é ruim, mas já vi melhor.;neutro;qualidade do produto
+AV0179;18/12/2023;app;Sul;VLR-PR-01;2;vestuario;Não recebi no prazo e o rastreamento ficou parado por dias.;negativo;entrega
+AV0180;16/09/2024;loja_fisica;Nordeste;VLR-PE-02;5;vestuario;Atendimento excelente na loja. Voltarei com certeza!;positivo;atendimento
+AV0181;23/02/2023;site;Centro-Oeste;VLR-GO-03;3;calcados;O produto chegou, mas demorou quase o dobro do prazo previsto.;neutro;entrega
+AV0182;03/11/2024;loja_fisica;Centro-Oeste;VLR-GO-03;5;vestuario;Caiu certinho! A tabela de tamanhos é muito precisa.;positivo;tamanho e caimento
+AV0183;02/11/2024;loja_fisica;Centro-Oeste;VLR-GO-03;5;vestuario;Vale muito o preço. Produto durável e bonito.;positivo;preço
+AV0184;03/12/2023;app;Sul;VLR-RS-02;1;calcados;Pedi um vestido azul e recebi uma calça bege. Incompetência.;negativo;troca e devolução
+AV0185;13/11/2023;loja_fisica;Sul;VLR-RS-01;5;vestuario;Equipe super prestativa e simpática. Me senti muito bem atendida.;positivo;atendimento
+AV0186;08/06/2023;site;Centro-Oeste;VLR-GO-02;4;acessorios;A qualidade do tecido é incrível, vale cada centavo.;positivo;qualidade do produto
+AV0187;11/12/2023;app;Norte;VLR-AP-01;4;vestuario;Fui muito bem atendida. A equipe conhece bem os produtos.;positivo;atendimento
+AV0188;19/06/2023;loja_fisica;Sudeste;VLR-MG-02;3;calcados;Qualidade ok mas não é tão boa quanto parece nas fotos.;neutro;qualidade do produto
+AV0189;04/04/2024;loja_fisica;Sudeste;VLR-RJ-03;5;calcados;Fui muito bem atendida. A equipe conhece bem os produtos.;positivo;atendimento
+AV0190;18/07/2023;loja_fisica;Nordeste;VLR-PE-02;5;acessorios;Entrega dentro do prazo e rastreamento funcionou perfeitamente.;positivo;entrega
+AV0191;04/03/2024;app;Sudeste;VLR-RJ-02;3;vestuario;Gostei do produto mas esperava mais pelo valor que paguei.;neutro;preço
+AV0192;21/07/2024;loja_fisica;Sul;VLR-RS-03;3;acessorios;A numeração do calçado não bateu exatamente. Meu 38 usual ficou apertado.;neutro;tamanho e caimento
+AV0193;09/06/2024;loja_fisica;Norte;VLR-TO-01;5;vestuario;A moça da loja foi incrível, paciente e me deu ótimas sugestões.;positivo;atendimento
+AV0194;28/01/2023;site;Norte;VLR-RR-01;3;acessorios;Qualidade ok mas não é tão boa quanto parece nas fotos.;neutro;qualidade do produto
+AV0195;29/01/2023;app;Sudeste;VLR-SP-02;2;vestuario;Solicitei a troca há 15 dias e ainda não recebi o produto substituto.;negativo;troca e devolução
+AV0196;28/04/2024;site;Centro-Oeste;VLR-GO-03;2;acessorios;Botão saiu na primeira semana. Acabamento muito ruim.;negativo;qualidade do produto
+AV0197;03/06/2023;app;Sudeste;VLR-SP-01;5;vestuario;Tamanho exatamente como descrito. Ficou ótimo.;positivo;tamanho e caimento
+AV0198;05/05/2023;app;Sul;VLR-SC-02;2;vestuario;Prazo descumprido e o SAC não conseguiu me dar informações precisas.;negativo;entrega
+AV0199;26/05/2024;app;Sudeste;VLR-SP-02;4;vestuario;Produto premium com um acabamento impecável. Adorei!;positivo;qualidade do produto
+AV0200;28/12/2023;loja_fisica;Sul;VLR-RS-02;2;vestuario;Botão saiu na primeira semana. Acabamento muito ruim.;negativo;qualidade do produto
+AV0201;22/06/2024;app;Nordeste;VLR-CE-03;1;vestuario;Fui ofendida por uma funcionária na loja. Inadmissível.;negativo;atendimento
+AV0202;17/09/2023;site;Sudeste;VLR-RJ-02;1;acessorios;Estou sem o produto e sem devolução do dinheiro. Absurdo.;negativo;troca e devolução
+AV0203;07/12/2023;loja_fisica;Norte;VLR-PA-01;5;calcados;Atendimento nota 10! A vendedora foi muito atenciosa e me ajudou a escolher o tamanho certo.;positivo;atendimento
+AV0204;02/12/2024;app;Centro-Oeste;VLR-GO-02;5;calcados;Comprei durante a promoção e foi um excelente negócio.;positivo;preço
+AV0205;07/02/2023;site;Nordeste;VLR-SE-01;1;acessorios;Péssima qualidade. O produto veio com defeito de fábrica.;negativo;qualidade do produto
+AV0206;11/06/2024;site;Norte;VLR-RO-01;5;acessorios;Comprei durante a promoção e foi um excelente negócio.;positivo;preço
+AV0207;18/02/2023;loja_fisica;Centro-Oeste;VLR-GO-03;5;vestuario;Recebi em dois dias, muito mais rápido do que esperava. Ótimo serviço!;positivo;entrega
+AV0208;31/01/2024;site;Norte;VLR-AC-01;3;calcados;O produto chegou, mas demorou quase o dobro do prazo previsto.;neutro;entrega
+AV0209;26/03/2023;app;Sudeste;VLR-MG-01;3;vestuario;Qualidade ok mas não é tão boa quanto parece nas fotos.;neutro;qualidade do produto
+AV0210;16/04/2023;app;Sudeste;VLR-MG-01;5;vestuario;A qualidade do tecido é incrível, vale cada centavo.;positivo;qualidade do produto
+AV0211;30/03/2024;loja_fisica;Centro-Oeste;VLR-MT-01;4;vestuario;Produto chegou no prazo e bem embalado. Exatamente como na foto.;positivo;entrega
+AV0212;28/02/2023;app;Norte;VLR-AC-01;5;vestuario;Nunca me decepcionei com a qualidade dos produtos da Valore. Sempre perfeito.;positivo;qualidade do produto
+AV0213;27/05/2023;app;Centro-Oeste;VLR-GO-02;5;acessorios;Tamanho exatamente como descrito. Ficou ótimo.;positivo;tamanho e caimento
+AV0214;28/01/2024;loja_fisica;Sudeste;VLR-ES-01;1;vestuario;Fui ofendida por uma funcionária na loja. Inadmissível.;negativo;atendimento
+AV0215;20/03/2023;loja_fisica;Sul;VLR-RS-01;4;vestuario;Fui muito bem atendida. A equipe conhece bem os produtos.;positivo;atendimento
+AV0216;27/01/2023;loja_fisica;Centro-Oeste;VLR-GO-02;5;acessorios;A moça da loja foi incrível, paciente e me deu ótimas sugestões.;positivo;atendimento
+AV0217;21/12/2024;loja_fisica;Sul;VLR-SC-02;4;calcados;Caiu certinho! A tabela de tamanhos é muito precisa.;positivo;tamanho e caimento
+AV0218;19/05/2023;loja_fisica;Sul;VLR-RS-03;5;vestuario;Nunca me decepcionei com a qualidade dos produtos da Valore. Sempre perfeito.;positivo;qualidade do produto
+AV0219;24/11/2023;site;Nordeste;VLR-BA-02;4;calcados;Chegou antes do prazo! Embalagem caprichada e produto em perfeito estado.;positivo;entrega
+AV0220;18/12/2024;app;Sul;VLR-PR-03;5;calcados;Atendimento excelente na loja. Voltarei com certeza!;positivo;atendimento
+AV0221;20/05/2024;loja_fisica;Sul;VLR-PR-03;5;vestuario;A qualidade do tecido é incrível, vale cada centavo.;positivo;qualidade do produto
+AV0222;30/03/2023;app;Sul;VLR-PR-03;4;calcados;A qualidade do tecido é incrível, vale cada centavo.;positivo;qualidade do produto
+AV0223;24/02/2024;site;Sudeste;VLR-MG-01;5;vestuario;Caiu certinho! A tabela de tamanhos é muito precisa.;positivo;tamanho e caimento
+AV0224;13/06/2024;site;Nordeste;VLR-PE-02;4;vestuario;Entrega rápida e produto embalado com cuidado. Aprovadíssimo!;positivo;entrega
+AV0225;26/02/2023;app;Sul;VLR-PR-03;2;vestuario;Não recebi no prazo e o rastreamento ficou parado por dias.;negativo;entrega
+AV0226;15/06/2024;loja_fisica;Nordeste;VLR-AL-01;2;vestuario;Solicitei a troca há 15 dias e ainda não recebi o produto substituto.;negativo;troca e devolução
+AV0227;07/11/2023;loja_fisica;Centro-Oeste;VLR-GO-03;5;vestuario;Tamanho exatamente como descrito. Ficou ótimo.;positivo;tamanho e caimento
+AV0228;01/10/2024;app;Norte;VLR-PA-02;2;vestuario;Solicitei a troca há 15 dias e ainda não recebi o produto substituto.;negativo;troca e devolução
+AV0229;08/08/2024;loja_fisica;Norte;VLR-TO-01;5;calcados;Ótimo custo-benefício. Produto de qualidade a um preço justo.;positivo;preço
+AV0230;09/05/2024;site;Sudeste;VLR-ES-01;4;acessorios;A moça da loja foi incrível, paciente e me deu ótimas sugestões.;positivo;atendimento
+AV0231;10/05/2024;app;Centro-Oeste;VLR-GO-02;5;vestuario;Vale muito o preço. Produto durável e bonito.;positivo;preço
+AV0232;20/12/2023;app;Centro-Oeste;VLR-DF-01;3;vestuario;Qualidade ok mas não é tão boa quanto parece nas fotos.;neutro;qualidade do produto
+AV0233;01/10/2023;app;Centro-Oeste;VLR-GO-02;2;vestuario;Fui mal atendida na loja. A vendedora foi grossa e pouco prestativa.;negativo;atendimento
+AV0234;04/03/2024;loja_fisica;Nordeste;VLR-PE-01;3;acessorios;Gostei do produto mas esperava mais pelo valor que paguei.;neutro;qualidade do produto
+AV0235;25/05/2024;site;Centro-Oeste;VLR-GO-02;5;calcados;Escolhi pelo guia de medidas e ficou perfeito. Recomendo seguir a tabela.;positivo;tamanho e caimento
+AV0236;01/06/2024;site;Sudeste;VLR-SP-02;4;acessorios;Caiu certinho! A tabela de tamanhos é muito precisa.;positivo;tamanho e caimento
+AV0237;31/10/2024;app;Nordeste;VLR-CE-02;1;vestuario;Cancelamento negado mesmo dentro do prazo legal. Absurdo.;negativo;troca e devolução
+AV0238;10/01/2024;loja_fisica;Sul;VLR-PR-03;2;acessorios;Ninguém me atendeu adequadamente na loja. Ambiente desorganizado.;negativo;atendimento
+AV0239;23/10/2023;loja_fisica;Norte;VLR-AM-01;4;vestuario;Nunca me decepcionei com a qualidade dos produtos da Valore. Sempre perfeito.;positivo;qualidade do produto
+AV0240;10/04/2023;app;Sul;VLR-PR-02;4;vestuario;Escolhi pelo guia de medidas e ficou perfeito. Recomendo seguir a tabela.;positivo;tamanho e caimento
+AV0241;05/06/2024;app;Centro-Oeste;VLR-GO-02;3;vestuario;Comprei esperando mais. Não é ruim, mas também não encantou.;neutro;qualidade do produto
+AV0242;15/06/2024;loja_fisica;Norte;VLR-RO-01;2;calcados;Fui mal atendida na loja. A vendedora foi grossa e pouco prestativa.;negativo;atendimento
+AV0243;23/09/2024;site;Sul;VLR-RS-01;2;vestuario;Já enviei o produto para troca e ainda não tenho previsão de retorno.;negativo;troca e devolução
+AV0244;18/01/2023;site;Sul;VLR-SC-02;4;vestuario;Recebi em dois dias, muito mais rápido do que esperava. Ótimo serviço!;positivo;entrega
+AV0245;29/09/2023;site;Norte;VLR-MA-01;4;calcados;Atendimento nota 10! A vendedora foi muito atenciosa e me ajudou a escolher o tamanho certo.;positivo;atendimento
+AV0246;28/11/2024;app;Sul;VLR-RS-02;4;vestuario;Atendimento nota 10! A vendedora foi muito atenciosa e me ajudou a escolher o tamanho certo.;positivo;atendimento
+AV0247;04/03/2024;site;Sul;VLR-PR-01;2;vestuario;Botão saiu na primeira semana. Acabamento muito ruim.;negativo;qualidade do produto
+AV0248;05/03/2023;loja_fisica;Nordeste;VLR-PE-02;5;acessorios;Fui muito bem atendida. A equipe conhece bem os produtos.;positivo;atendimento
+AV0249;18/11/2023;app;Nordeste;VLR-PE-02;5;vestuario;A moça da loja foi incrível, paciente e me deu ótimas sugestões.;positivo;atendimento
+AV0250;16/07/2023;loja_fisica;Sul;VLR-SC-02;3;calcados;Qualidade razoável para o preço. Não é ruim, mas já vi melhor.;neutro;qualidade do produto
+AV0251;22/12/2024;loja_fisica;Sul;VLR-SC-02;5;calcados;A moça da loja foi incrível, paciente e me deu ótimas sugestões.;positivo;atendimento
+AV0252;05/05/2023;app;Centro-Oeste;VLR-DF-01;4;vestuario;Escolhi pelo guia de medidas e ficou perfeito. Recomendo seguir a tabela.;positivo;tamanho e caimento
+AV0253;22/03/2023;site;Centro-Oeste;VLR-GO-03;5;vestuario;Produto chegou no prazo e bem embalado. Exatamente como na foto.;positivo;entrega
+AV0254;29/07/2024;app;Centro-Oeste;VLR-MS-01;2;vestuario;O processo de troca é muito lento e burocrático.;negativo;troca e devolução
+AV0255;27/06/2024;app;Norte;VLR-AM-01;4;vestuario;Equipe super prestativa e simpática. Me senti muito bem atendida.;positivo;atendimento
+AV0256;21/05/2023;loja_fisica;Norte;VLR-RR-01;3;vestuario;A numeração do calçado não bateu exatamente. Meu 38 usual ficou apertado.;neutro;tamanho e caimento
+AV0257;24/07/2023;loja_fisica;Nordeste;VLR-PE-02;5;vestuario;Recebi em dois dias, muito mais rápido do que esperava. Ótimo serviço!;positivo;entrega
+AV0258;26/08/2023;app;Centro-Oeste;VLR-GO-01;5;calcados;Tamanho exatamente como descrito. Ficou ótimo.;positivo;tamanho e caimento
+AV0259;07/02/2023;site;Norte;VLR-PA-02;2;acessorios;Ninguém me atendeu adequadamente na loja. Ambiente desorganizado.;negativo;atendimento
+AV0260;10/01/2023;site;Nordeste;VLR-CE-02;5;acessorios;Entrega dentro do prazo e rastreamento funcionou perfeitamente.;positivo;entrega
+AV0261;18/10/2024;loja_fisica;Sul;VLR-SC-02;5;vestuario;Tamanho exatamente como descrito. Ficou ótimo.;positivo;tamanho e caimento
+AV0262;17/07/2023;site;Sudeste;VLR-MG-01;2;vestuario;Entrega muito atrasada. Fui informada do atraso somente depois de reclamar.;negativo;entrega
+AV0263;12/12/2023;app;Nordeste;VLR-AL-01;4;vestuario;Entrega dentro do prazo e rastreamento funcionou perfeitamente.;positivo;entrega
+AV0264;11/06/2024;loja_fisica;Nordeste;VLR-PE-01;5;calcados;Chegou antes do prazo! Embalagem caprichada e produto em perfeito estado.;positivo;entrega
+AV0265;12/09/2023;app;Sudeste;VLR-SP-03;2;vestuario;Entrega muito atrasada. Fui informada do atraso somente depois de reclamar.;negativo;entrega
+AV0266;09/08/2024;loja_fisica;Sudeste;VLR-RJ-01;5;vestuario;A qualidade do tecido é incrível, vale cada centavo.;positivo;qualidade do produto
+AV0267;13/06/2023;app;Centro-Oeste;VLR-GO-01;1;vestuario;Não consegui cancelar o pedido. O SAC é inoperante.;negativo;atendimento
+AV0268;16/10/2024;site;Sul;VLR-SC-02;5;calcados;Recebi em dois dias, muito mais rápido do que esperava. Ótimo serviço!;positivo;entrega
+AV0269;12/09/2024;loja_fisica;Sul;VLR-RS-03;5;vestuario;Produto chegou no prazo e bem embalado. Exatamente como na foto.;positivo;entrega
+AV0270;27/11/2024;site;Sul;VLR-SC-01;5;calcados;Caiu certinho! A tabela de tamanhos é muito precisa.;positivo;tamanho e caimento
+AV0271;25/04/2023;loja_fisica;Sul;VLR-PR-02;5;acessorios;Produto premium com um acabamento impecável. Adorei!;positivo;qualidade do produto
+AV0272;16/06/2024;loja_fisica;Sul;VLR-PR-03;4;vestuario;Caiu certinho! A tabela de tamanhos é muito precisa.;positivo;tamanho e caimento
+AV0273;26/02/2023;app;Nordeste;VLR-RN-01;4;vestuario;Caiu certinho! A tabela de tamanhos é muito precisa.;positivo;tamanho e caimento
+AV0274;12/11/2023;loja_fisica;Sul;VLR-RS-03;4;calcados;Nunca me decepcionei com a qualidade dos produtos da Valore. Sempre perfeito.;positivo;qualidade do produto
+AV0275;09/03/2024;site;Centro-Oeste;VLR-MS-01;5;vestuario;Chegou antes do prazo! Embalagem caprichada e produto em perfeito estado.;positivo;entrega
+AV0276;28/04/2024;site;Sul;VLR-PR-02;5;acessorios;A qualidade do tecido é incrível, vale cada centavo.;positivo;qualidade do produto
+AV0277;23/10/2024;loja_fisica;Sudeste;VLR-ES-01;2;acessorios;Ninguém me atendeu adequadamente na loja. Ambiente desorganizado.;negativo;atendimento
+AV0278;30/11/2024;loja_fisica;Sudeste;VLR-RJ-02;5;vestuario;Caiu certinho! A tabela de tamanhos é muito precisa.;positivo;tamanho e caimento
+AV0279;17/08/2023;loja_fisica;Centro-Oeste;VLR-MT-01;5;vestuario;Produto de ótima qualidade, superou minhas expectativas!;positivo;qualidade do produto
+AV0280;24/08/2023;app;Centro-Oeste;VLR-MT-01;5;vestuario;A moça da loja foi incrível, paciente e me deu ótimas sugestões.;positivo;atendimento
+AV0281;02/02/2023;loja_fisica;Centro-Oeste;VLR-DF-01;3;calcados;Comprei esperando mais. Não é ruim, mas também não encantou.;neutro;qualidade do produto
+AV0282;19/11/2024;loja_fisica;Norte;VLR-MA-01;1;vestuario;Produto nunca chegou. SAC não consegue resolver. Uma vergonha.;negativo;atendimento
+AV0283;27/02/2023;loja_fisica;Norte;VLR-AM-01;3;calcados;Qualidade razoável para o preço. Não é ruim, mas já vi melhor.;neutro;preço
+AV0284;19/11/2024;site;Nordeste;VLR-CE-03;5;calcados;Entrega rápida e produto embalado com cuidado. Aprovadíssimo!;positivo;entrega
+AV0285;04/11/2023;site;Centro-Oeste;VLR-MS-01;5;vestuario;Chegou antes do prazo! Embalagem caprichada e produto em perfeito estado.;positivo;entrega
+AV0286;13/03/2024;site;Sul;VLR-PR-03;5;calcados;Escolhi pelo guia de medidas e ficou perfeito. Recomendo seguir a tabela.;positivo;tamanho e caimento
+AV0287;23/11/2023;site;Norte;VLR-AC-01;5;calcados;Comprei durante a promoção e foi um excelente negócio.;positivo;preço
+AV0288;19/08/2023;loja_fisica;Nordeste;VLR-RN-01;3;vestuario;Demorou mais do que o prazo informado no site. Precisei acompanhar pelo SAC.;neutro;entrega
+AV0289;02/03/2024;site;Nordeste;VLR-RN-01;5;vestuario;Tamanho exatamente como descrito. Ficou ótimo.;positivo;tamanho e caimento
+AV0290;05/04/2024;loja_fisica;Nordeste;VLR-CE-03;3;calcados;O produto chegou, mas demorou quase o dobro do prazo previsto.;neutro;entrega
+AV0291;11/09/2024;app;Sul;VLR-SC-02;2;vestuario;Meu pedido chegou com 12 dias de atraso e sem nenhuma comunicação.;negativo;entrega
+AV0292;05/05/2024;site;Nordeste;VLR-PI-01;4;calcados;Atendimento excelente na loja. Voltarei com certeza!;positivo;atendimento
+AV0293;01/05/2023;site;Centro-Oeste;VLR-GO-02;1;acessorios;Tentei cancelar o pedido e fui completamente ignorada. Péssimo.;negativo;atendimento
+AV0294;17/10/2023;app;Sul;VLR-SC-01;3;calcados;Produto agradável, mas o acabamento poderia ser melhor.;neutro;qualidade do produto
+AV0295;24/05/2024;app;Sul;VLR-RS-01;3;vestuario;Qualidade ok mas não é tão boa quanto parece nas fotos.;neutro;qualidade do produto
+AV0296;28/02/2024;site;Sudeste;VLR-SP-04;3;vestuario;A numeração do calçado não bateu exatamente. Meu 38 usual ficou apertado.;neutro;tamanho e caimento
+AV0297;16/08/2024;app;Nordeste;VLR-RN-01;1;acessorios;Cancelamento negado mesmo dentro do prazo legal. Absurdo.;negativo;troca e devolução
+AV0298;26/05/2024;loja_fisica;Nordeste;VLR-MA-02;3;calcados;Entrega lenta. Fiquei uma semana além do prazo esperando.;neutro;entrega
+AV0299;27/12/2023;site;Sudeste;VLR-RJ-03;4;vestuario;Equipe super prestativa e simpática. Me senti muito bem atendida.;positivo;atendimento
+AV0300;18/03/2023;app;Sul;VLR-PR-01;5;vestuario;Produto de ótima qualidade, superou minhas expectativas!;positivo;qualidade do produto
+AV0301;10/01/2023;loja_fisica;Sudeste;VLR-SP-02;5;calcados;Fui muito bem atendida. A equipe conhece bem os produtos.;positivo;atendimento
+AV0302;09/05/2024;loja_fisica;Sudeste;VLR-ES-01;4;acessorios;Caiu certinho! A tabela de tamanhos é muito precisa.;positivo;tamanho e caimento
+AV0303;09/10/2023;app;Norte;VLR-MA-01;3;vestuario;O produto chegou, mas demorou quase o dobro do prazo previsto.;neutro;entrega
+AV0304;09/04/2023;site;Sul;VLR-PR-03;5;vestuario;Caiu certinho! A tabela de tamanhos é muito precisa.;positivo;tamanho e caimento
+AV0305;11/02/2024;loja_fisica;Nordeste;VLR-PB-01;4;vestuario;A qualidade do tecido é incrível, vale cada centavo.;positivo;qualidade do produto
+AV0306;24/03/2023;app;Sudeste;VLR-SP-04;3;vestuario;O produto é bonito mas o tamanho ficou um pouco diferente do que esperava. A modelagem é um pouco larga.;neutro;tamanho e caimento
+AV0307;20/12/2024;loja_fisica;Sudeste;VLR-SP-01;4;calcados;Atendimento nota 10! A vendedora foi muito atenciosa e me ajudou a escolher o tamanho certo.;positivo;atendimento
+AV0308;08/04/2023;site;Sudeste;VLR-RJ-01;4;calcados;Material excelente, muito bem acabado. Recomendo demais!;positivo;qualidade do produto
+AV0309;17/02/2023;site;Nordeste;VLR-MA-02;5;vestuario;A qualidade do tecido é incrível, vale cada centavo.;positivo;qualidade do produto
+AV0310;01/08/2023;app;Sul;VLR-RS-01;1;vestuario;O atendente do SAC foi extremamente grosseiro e não resolveu nada.;negativo;atendimento
+AV0311;03/02/2024;site;Sudeste;VLR-MG-02;3;vestuario;Entrega lenta. Fiquei uma semana além do prazo esperando.;neutro;entrega
+AV0312;21/12/2023;site;Nordeste;VLR-BA-02;5;vestuario;Produto de ótima qualidade, superou minhas expectativas!;positivo;qualidade do produto
+AV0313;01/09/2024;loja_fisica;Sudeste;VLR-MG-02;1;calcados;Cancelamento negado mesmo dentro do prazo legal. Absurdo.;negativo;troca e devolução
+AV0314;31/12/2023;app;Norte;VLR-RR-01;5;vestuario;Escolhi pelo guia de medidas e ficou perfeito. Recomendo seguir a tabela.;positivo;tamanho e caimento
+AV0315;25/09/2024;loja_fisica;Sudeste;VLR-RJ-02;4;vestuario;Entrega rápida e produto embalado com cuidado. Aprovadíssimo!;positivo;entrega
+AV0316;21/11/2023;loja_fisica;Norte;VLR-PA-02;2;calcados;Solicitei a troca há 15 dias e ainda não recebi o produto substituto.;negativo;troca e devolução
+AV0317;15/04/2023;loja_fisica;Norte;VLR-RO-01;3;calcados;Produto ok, mas achei o preço um pouco salgado para o que é.;neutro;preço
+AV0318;27/01/2023;loja_fisica;Nordeste;VLR-RN-01;4;vestuario;A qualidade do tecido é incrível, vale cada centavo.;positivo;qualidade do produto
+AV0319;13/01/2023;loja_fisica;Sul;VLR-RS-01;4;acessorios;Produto chegou no prazo e bem embalado. Exatamente como na foto.;positivo;entrega
+AV0320;06/09/2023;site;Sudeste;VLR-MG-01;5;acessorios;Tamanho exatamente como descrito. Ficou ótimo.;positivo;tamanho e caimento
+AV0321;19/05/2024;app;Nordeste;VLR-CE-02;2;vestuario;A costura soltou depois da primeira lavagem. Muito decepcionante.;negativo;qualidade do produto
+AV0322;05/01/2024;loja_fisica;Nordeste;VLR-PE-02;4;calcados;Entrega rápida e produto embalado com cuidado. Aprovadíssimo!;positivo;entrega
+AV0323;07/01/2023;app;Sudeste;VLR-SP-02;2;vestuario;Ninguém me atendeu adequadamente na loja. Ambiente desorganizado.;negativo;atendimento
+AV0324;28/10/2024;loja_fisica;Sul;VLR-RS-03;5;vestuario;Caiu certinho! A tabela de tamanhos é muito precisa.;positivo;tamanho e caimento
+AV0325;01/07/2023;loja_fisica;Centro-Oeste;VLR-GO-02;5;vestuario;Preço competitivo para a qualidade que entrega. Muito satisfeita!;positivo;preço
+AV0326;30/11/2023;app;Centro-Oeste;VLR-MS-01;4;calcados;Escolhi pelo guia de medidas e ficou perfeito. Recomendo seguir a tabela.;positivo;tamanho e caimento
+AV0327;12/07/2024;loja_fisica;Sudeste;VLR-SP-04;5;calcados;Fui muito bem atendida. A equipe conhece bem os produtos.;positivo;atendimento
+AV0328;26/10/2023;site;Norte;VLR-AM-01;4;vestuario;Nunca me decepcionei com a qualidade dos produtos da Valore. Sempre perfeito.;positivo;qualidade do produto
+AV0329;09/03/2024;loja_fisica;Sudeste;VLR-SP-05;3;calcados;Qualidade ok mas não é tão boa quanto parece nas fotos.;neutro;qualidade do produto
+AV0330;09/12/2024;site;Sudeste;VLR-RJ-02;4;vestuario;Tamanho exatamente como descrito. Ficou ótimo.;positivo;tamanho e caimento
+AV0331;29/03/2023;site;Norte;VLR-AP-01;3;calcados;Tive que trocar de tamanho. A numeração parece inconsistente entre os modelos.;neutro;tamanho e caimento
+AV0332;24/11/2024;loja_fisica;Centro-Oeste;VLR-MS-01;4;acessorios;Escolhi pelo guia de medidas e ficou perfeito. Recomendo seguir a tabela.;positivo;tamanho e caimento
+AV0333;15/06/2024;loja_fisica;Sudeste;VLR-SP-04;2;vestuario;Botão saiu na primeira semana. Acabamento muito ruim.;negativo;qualidade do produto
+AV0334;04/06/2023;loja_fisica;Centro-Oeste;VLR-MS-01;5;calcados;Chegou antes do prazo! Embalagem caprichada e produto em perfeito estado.;positivo;entrega
+AV0335;26/05/2023;loja_fisica;Sudeste;VLR-SP-02;4;vestuario;Recebi em dois dias, muito mais rápido do que esperava. Ótimo serviço!;positivo;entrega
+AV0336;10/04/2023;app;Centro-Oeste;VLR-MT-01;2;vestuario;SAC demorou 4 dias para me responder e não resolveu meu problema.;negativo;atendimento
+AV0337;18/12/2023;loja_fisica;Sudeste;VLR-SP-02;3;vestuario;Tive que trocar de tamanho. A numeração parece inconsistente entre os modelos.;neutro;tamanho e caimento
+AV0338;18/04/2024;app;Nordeste;VLR-CE-03;4;calcados;A moça da loja foi incrível, paciente e me deu ótimas sugestões.;positivo;atendimento
+AV0339;20/09/2024;loja_fisica;Nordeste;VLR-PE-01;5;vestuario;A moça da loja foi incrível, paciente e me deu ótimas sugestões.;positivo;atendimento
+AV0340;21/12/2024;loja_fisica;Sul;VLR-SC-01;1;vestuario;Paguei e não recebi. Já se passaram 30 dias e nenhuma solução.;negativo;entrega
+AV0341;17/11/2024;loja_fisica;Sul;VLR-RS-03;3;vestuario;Comprei esperando mais. Não é ruim, mas também não encantou.;neutro;qualidade do produto
+AV0342;27/12/2023;app;Centro-Oeste;VLR-MS-01;4;vestuario;Tamanho exatamente como descrito. Ficou ótimo.;positivo;tamanho e caimento
+AV0343;27/08/2024;site;Nordeste;VLR-CE-02;5;acessorios;Material excelente, muito bem acabado. Recomendo demais!;positivo;qualidade do produto
+AV0344;25/05/2023;loja_fisica;Centro-Oeste;VLR-GO-02;3;vestuario;Produto agradável, mas o acabamento poderia ser melhor.;neutro;qualidade do produto
+AV0345;04/07/2024;loja_fisica;Sul;VLR-PR-03;4;vestuario;Fui muito bem atendida. A equipe conhece bem os produtos.;positivo;atendimento
+AV0346;26/09/2024;app;Nordeste;VLR-CE-03;2;calcados;Entrega muito atrasada. Fui informada do atraso somente depois de reclamar.;negativo;entrega
+AV0347;01/06/2024;app;Norte;VLR-AC-01;2;acessorios;Ninguém me atendeu adequadamente na loja. Ambiente desorganizado.;negativo;atendimento
+AV0348;01/08/2024;loja_fisica;Sudeste;VLR-RJ-03;5;vestuario;Material excelente, muito bem acabado. Recomendo demais!;positivo;qualidade do produto
+AV0349;13/04/2024;loja_fisica;Centro-Oeste;VLR-GO-03;3;vestuario;Comprei esperando mais. Não é ruim, mas também não encantou.;neutro;qualidade do produto
+AV0350;12/02/2023;loja_fisica;Sul;VLR-RS-01;2;vestuario;SAC demorou 4 dias para me responder e não resolveu meu problema.;negativo;atendimento
+AV0351;11/09/2023;site;Nordeste;VLR-PB-01;2;calcados;Solicitei a troca há 15 dias e ainda não recebi o produto substituto.;negativo;troca e devolução
+AV0352;01/05/2023;loja_fisica;Sudeste;VLR-SP-02;5;vestuario;Equipe super prestativa e simpática. Me senti muito bem atendida.;positivo;atendimento
+AV0353;23/05/2023;app;Sul;VLR-RS-02;5;vestuario;Equipe super prestativa e simpática. Me senti muito bem atendida.;positivo;atendimento
+AV0354;21/12/2024;app;Norte;VLR-AP-01;4;vestuario;Recebi em dois dias, muito mais rápido do que esperava. Ótimo serviço!;positivo;entrega
+AV0355;26/02/2024;loja_fisica;Sul;VLR-PR-02;5;vestuario;A qualidade do tecido é incrível, vale cada centavo.;positivo;qualidade do produto
+AV0356;11/09/2023;app;Nordeste;VLR-BA-03;2;calcados;Ninguém me atendeu adequadamente na loja. Ambiente desorganizado.;negativo;atendimento
+AV0357;19/03/2023;app;Nordeste;VLR-PE-01;3;vestuario;O caimento não ficou como na foto, mas o produto tem boa qualidade de material.;neutro;tamanho e caimento
+AV0358;14/05/2024;app;Sul;VLR-RS-01;5;vestuario;Entrega dentro do prazo e rastreamento funcionou perfeitamente.;positivo;entrega
+AV0359;14/04/2024;site;Norte;VLR-PA-01;5;calcados;Chegou antes do prazo! Embalagem caprichada e produto em perfeito estado.;positivo;entrega
+AV0360;27/11/2023;loja_fisica;Sul;VLR-SC-01;5;vestuario;Recebi em dois dias, muito mais rápido do que esperava. Ótimo serviço!;positivo;entrega
+AV0361;29/11/2024;app;Sul;VLR-RS-03;4;calcados;Produto de ótima qualidade, superou minhas expectativas!;positivo;qualidade do produto
+AV0362;11/06/2023;app;Norte;VLR-MA-01;5;vestuario;Comprei durante a promoção e foi um excelente negócio.;positivo;preço
+AV0363;06/11/2023;site;Norte;VLR-PA-02;3;acessorios;Qualidade razoável para o preço. Não é ruim, mas já vi melhor.;neutro;qualidade do produto
+AV0364;26/10/2024;app;Norte;VLR-RO-01;3;calcados;Produto ok, mas achei o preço um pouco salgado para o que é.;neutro;preço
+AV0365;04/04/2023;app;Sudeste;VLR-SP-04;5;vestuario;Produto de ótima qualidade, superou minhas expectativas!;positivo;qualidade do produto
+AV0366;31/03/2024;app;Nordeste;VLR-CE-01;2;vestuario;Meu pedido chegou com 12 dias de atraso e sem nenhuma comunicação.;negativo;entrega
+AV0367;04/05/2024;site;Centro-Oeste;VLR-MT-01;5;calcados;Material excelente, muito bem acabado. Recomendo demais!;positivo;qualidade do produto
+AV0368;03/11/2023;loja_fisica;Sudeste;VLR-SP-02;5;vestuario;A moça da loja foi incrível, paciente e me deu ótimas sugestões.;positivo;atendimento
+AV0369;09/01/2023;app;Nordeste;VLR-BA-02;4;vestuario;A moça da loja foi incrível, paciente e me deu ótimas sugestões.;positivo;atendimento
+AV0370;22/09/2024;app;Centro-Oeste;VLR-GO-02;4;acessorios;Caiu certinho! A tabela de tamanhos é muito precisa.;positivo;tamanho e caimento
+AV0371;29/01/2024;site;Norte;VLR-PA-01;2;calcados;Troca solicitada e nada resolvido. Atendimento confuso.;negativo;troca e devolução
+AV0372;20/07/2024;site;Centro-Oeste;VLR-DF-01;3;vestuario;Demorou mais do que o prazo informado no site. Precisei acompanhar pelo SAC.;neutro;entrega
+AV0373;13/09/2024;site;Norte;VLR-TO-01;4;vestuario;A moça da loja foi incrível, paciente e me deu ótimas sugestões.;positivo;atendimento
+AV0374;26/04/2023;app;Centro-Oeste;VLR-GO-02;5;vestuario;A moça da loja foi incrível, paciente e me deu ótimas sugestões.;positivo;atendimento
+AV0375;21/11/2023;loja_fisica;Sul;VLR-PR-01;5;acessorios;A moça da loja foi incrível, paciente e me deu ótimas sugestões.;positivo;atendimento
+AV0376;16/03/2023;loja_fisica;Sul;VLR-PR-03;4;calcados;Produto premium com um acabamento impecável. Adorei!;positivo;qualidade do produto
+AV0377;12/02/2024;loja_fisica;Norte;VLR-MA-01;3;acessorios;Demorou mais do que o prazo informado no site. Precisei acompanhar pelo SAC.;neutro;entrega
+AV0378;03/07/2024;site;Sul;VLR-RS-02;3;vestuario;Qualidade razoável para o preço. Não é ruim, mas já vi melhor.;neutro;qualidade do produto
+AV0379;09/06/2023;loja_fisica;Norte;VLR-AM-01;4;acessorios;Produto chegou no prazo e bem embalado. Exatamente como na foto.;positivo;entrega
+AV0380;23/03/2024;app;Sul;VLR-PR-02;5;vestuario;Atendimento nota 10! A vendedora foi muito atenciosa e me ajudou a escolher o tamanho certo.;positivo;atendimento
+AV0381;26/02/2023;loja_fisica;Nordeste;VLR-PE-02;4;calcados;Entrega rápida e produto embalado com cuidado. Aprovadíssimo!;positivo;entrega
+AV0382;22/12/2023;loja_fisica;Norte;VLR-MA-01;2;vestuario;O processo de troca é muito lento e burocrático.;negativo;troca e devolução
+AV0383;01/05/2023;loja_fisica;Centro-Oeste;VLR-GO-03;5;calcados;A qualidade do tecido é incrível, vale cada centavo.;positivo;qualidade do produto
+AV0384;23/05/2024;loja_fisica;Sudeste;VLR-MG-02;1;calcados;Não consegui cancelar o pedido. O SAC é inoperante.;negativo;atendimento
+AV0385;19/09/2023;loja_fisica;Centro-Oeste;VLR-GO-02;5;vestuario;Produto premium com um acabamento impecável. Adorei!;positivo;qualidade do produto
+AV0386;13/01/2023;loja_fisica;Norte;VLR-MA-01;4;acessorios;Atendimento nota 10! A vendedora foi muito atenciosa e me ajudou a escolher o tamanho certo.;positivo;atendimento
+AV0387;06/02/2023;loja_fisica;Sudeste;VLR-SP-03;5;acessorios;Tamanho exatamente como descrito. Ficou ótimo.;positivo;tamanho e caimento
+AV0388;21/03/2023;loja_fisica;Sudeste;VLR-RJ-01;3;vestuario;O produto chegou, mas demorou quase o dobro do prazo previsto.;neutro;entrega
+AV0389;17/02/2023;app;Sul;VLR-SC-01;1;calcados;Tentei cancelar o pedido e fui completamente ignorada. Péssimo.;negativo;atendimento
+AV0390;20/07/2024;site;Sudeste;VLR-SP-05;5;vestuario;Ótimo custo-benefício. Produto de qualidade a um preço justo.;positivo;preço
+AV0391;06/09/2023;loja_fisica;Centro-Oeste;VLR-GO-03;4;calcados;Escolhi pelo guia de medidas e ficou perfeito. Recomendo seguir a tabela.;positivo;tamanho e caimento
+AV0392;13/07/2024;site;Sul;VLR-SC-01;5;calcados;Equipe super prestativa e simpática. Me senti muito bem atendida.;positivo;atendimento
+AV0393;11/12/2024;site;Norte;VLR-AP-01;1;vestuario;Estou sem o produto e sem devolução do dinheiro. Absurdo.;negativo;troca e devolução
+AV0394;26/06/2024;site;Norte;VLR-TO-01;3;vestuario;Produto mediano. Para o preço cobrado, esperava mais acabamento.;neutro;qualidade do produto
+AV0395;06/04/2023;site;Sudeste;VLR-SP-03;5;calcados;Material excelente, muito bem acabado. Recomendo demais!;positivo;qualidade do produto
+AV0396;28/03/2023;loja_fisica;Sul;VLR-RS-03;5;acessorios;Caiu certinho! A tabela de tamanhos é muito precisa.;positivo;tamanho e caimento
+AV0397;05/03/2023;loja_fisica;Sul;VLR-PR-02;5;calcados;Vale muito o preço. Produto durável e bonito.;positivo;preço
+AV0398;01/12/2023;loja_fisica;Nordeste;VLR-SE-01;5;vestuario;Produto chegou no prazo e bem embalado. Exatamente como na foto.;positivo;entrega
+AV0399;21/08/2024;loja_fisica;Centro-Oeste;VLR-GO-02;5;calcados;Material excelente, muito bem acabado. Recomendo demais!;positivo;qualidade do produto
+AV0400;02/01/2024;loja_fisica;Norte;VLR-AC-01;4;vestuario;A moça da loja foi incrível, paciente e me deu ótimas sugestões.;positivo;atendimento
+AV0401;03/12/2024;app;Centro-Oeste;VLR-GO-01;5;vestuario;Entrega dentro do prazo e rastreamento funcionou perfeitamente.;positivo;entrega
+AV0402;12/09/2023;loja_fisica;Norte;VLR-PA-02;5;vestuario;Produto chegou no prazo e bem embalado. Exatamente como na foto.;positivo;entrega
+AV0403;19/02/2024;loja_fisica;Sul;VLR-PR-03;3;vestuario;Comprei esperando mais. Não é ruim, mas também não encantou.;neutro;qualidade do produto
+AV0404;05/03/2023;loja_fisica;Sul;VLR-PR-03;4;vestuario;Equipe super prestativa e simpática. Me senti muito bem atendida.;positivo;atendimento
+AV0405;28/03/2023;site;Nordeste;VLR-PI-01;3;acessorios;O produto chegou, mas demorou quase o dobro do prazo previsto.;neutro;entrega
+AV0406;05/04/2023;site;Norte;VLR-RR-01;2;calcados;Solicitei a troca há 15 dias e ainda não recebi o produto substituto.;negativo;troca e devolução
+AV0407;09/02/2024;site;Norte;VLR-AC-01;1;calcados;Tentei cancelar o pedido e fui completamente ignorada. Péssimo.;negativo;atendimento
+AV0408;09/10/2023;app;Sudeste;VLR-SP-04;2;acessorios;Troca solicitada e nada resolvido. Atendimento confuso.;negativo;troca e devolução
+AV0409;25/05/2024;loja_fisica;Nordeste;VLR-CE-01;4;calcados;Tamanho exatamente como descrito. Ficou ótimo.;positivo;tamanho e caimento
+AV0410;20/10/2024;loja_fisica;Sudeste;VLR-SP-03;3;vestuario;Produto ok, mas achei o preço um pouco salgado para o que é.;neutro;preço
+AV0411;19/12/2023;site;Sudeste;VLR-MG-01;3;calcados;Entrega lenta. Fiquei uma semana além do prazo esperando.;neutro;entrega
+AV0412;15/10/2023;loja_fisica;Centro-Oeste;VLR-GO-02;3;vestuario;O caimento não ficou como na foto, mas o produto tem boa qualidade de material.;neutro;tamanho e caimento
+AV0413;13/04/2023;loja_fisica;Sul;VLR-SC-01;4;acessorios;Equipe super prestativa e simpática. Me senti muito bem atendida.;positivo;atendimento
+AV0414;13/08/2023;app;Centro-Oeste;VLR-DF-01;5;vestuario;Escolhi pelo guia de medidas e ficou perfeito. Recomendo seguir a tabela.;positivo;tamanho e caimento
+AV0415;29/08/2024;site;Centro-Oeste;VLR-GO-02;5;vestuario;Recebi em dois dias, muito mais rápido do que esperava. Ótimo serviço!;positivo;entrega
+AV0416;12/07/2023;loja_fisica;Sul;VLR-PR-03;5;calcados;Preço competitivo para a qualidade que entrega. Muito satisfeita!;positivo;preço
+AV0417;21/01/2023;app;Nordeste;VLR-CE-01;1;calcados;Atendimento horrível. Esperei 1 hora na fila sem nenhuma atenção.;negativo;atendimento
+AV0418;01/07/2023;loja_fisica;Norte;VLR-PA-02;4;vestuario;Chegou antes do prazo! Embalagem caprichada e produto em perfeito estado.;positivo;entrega
+AV0419;22/06/2024;loja_fisica;Norte;VLR-PA-02;5;calcados;Chegou antes do prazo! Embalagem caprichada e produto em perfeito estado.;positivo;entrega
+AV0420;06/11/2023;app;Centro-Oeste;VLR-MS-01;4;vestuario;Entrega rápida e produto embalado com cuidado. Aprovadíssimo!;positivo;entrega
+AV0421;26/10/2024;app;Nordeste;VLR-PI-01;3;acessorios;O produto chegou, mas demorou quase o dobro do prazo previsto.;neutro;entrega
+AV0422;26/08/2024;app;Sul;VLR-RS-01;5;vestuario;A moça da loja foi incrível, paciente e me deu ótimas sugestões.;positivo;atendimento
+AV0423;19/12/2024;app;Centro-Oeste;VLR-GO-02;3;calcados;Comprei esperando mais. Não é ruim, mas também não encantou.;neutro;qualidade do produto
+AV0424;17/04/2023;loja_fisica;Norte;VLR-AM-01;3;calcados;Qualidade ok mas não é tão boa quanto parece nas fotos.;neutro;qualidade do produto
+AV0425;01/04/2023;app;Centro-Oeste;VLR-GO-03;2;vestuario;Troca solicitada e nada resolvido. Atendimento confuso.;negativo;troca e devolução
+AV0426;21/04/2023;loja_fisica;Norte;VLR-PA-01;3;vestuario;O produto é bonito mas o tamanho ficou um pouco diferente do que esperava. A modelagem é um pouco larga.;neutro;tamanho e caimento
+AV0427;19/05/2024;loja_fisica;Sudeste;VLR-SP-03;4;acessorios;Escolhi pelo guia de medidas e ficou perfeito. Recomendo seguir a tabela.;positivo;tamanho e caimento
+AV0428;17/03/2023;loja_fisica;Sul;VLR-SC-01;5;vestuario;A qualidade do tecido é incrível, vale cada centavo.;positivo;qualidade do produto
+AV0429;20/01/2024;loja_fisica;Norte;VLR-PA-01;5;vestuario;Atendimento nota 10! A vendedora foi muito atenciosa e me ajudou a escolher o tamanho certo.;positivo;atendimento
+AV0430;20/09/2024;site;Sul;VLR-RS-01;5;calcados;Ótimo custo-benefício. Produto de qualidade a um preço justo.;positivo;preço
+AV0431;14/04/2023;site;Sudeste;VLR-RJ-02;2;vestuario;O processo de troca é muito lento e burocrático.;negativo;troca e devolução
+AV0432;07/11/2024;loja_fisica;Nordeste;VLR-AL-01;4;vestuario;Recebi em dois dias, muito mais rápido do que esperava. Ótimo serviço!;positivo;entrega
+AV0433;07/06/2023;loja_fisica;Nordeste;VLR-RN-01;4;calcados;A qualidade do tecido é incrível, vale cada centavo.;positivo;qualidade do produto
+AV0434;27/01/2023;loja_fisica;Norte;VLR-RR-01;3;vestuario;Gostei do produto mas esperava mais pelo valor que paguei.;neutro;preço
+AV0435;12/02/2024;site;Centro-Oeste;VLR-GO-01;4;vestuario;Escolhi pelo guia de medidas e ficou perfeito. Recomendo seguir a tabela.;positivo;tamanho e caimento
+AV0436;26/01/2024;loja_fisica;Centro-Oeste;VLR-GO-02;4;vestuario;Entrega rápida e produto embalado com cuidado. Aprovadíssimo!;positivo;entrega
+AV0437;03/10/2023;loja_fisica;Sudeste;VLR-SP-05;4;vestuario;Material excelente, muito bem acabado. Recomendo demais!;positivo;qualidade do produto
+AV0438;26/08/2024;loja_fisica;Norte;VLR-AP-01;3;vestuario;Produto ok, mas achei o preço um pouco salgado para o que é.;neutro;preço
+AV0439;01/05/2024;site;Sudeste;VLR-MG-01;3;calcados;Produto mediano. Para o preço cobrado, esperava mais acabamento.;neutro;qualidade do produto
+AV0440;07/08/2024;loja_fisica;Centro-Oeste;VLR-DF-01;5;vestuario;Tamanho exatamente como descrito. Ficou ótimo.;positivo;tamanho e caimento
+AV0441;21/06/2023;loja_fisica;Sul;VLR-RS-03;5;vestuario;Equipe super prestativa e simpática. Me senti muito bem atendida.;positivo;atendimento
+AV0442;04/10/2024;loja_fisica;Nordeste;VLR-PI-01;1;vestuario;Pedi um vestido azul e recebi uma calça bege. Incompetência.;negativo;troca e devolução
+AV0443;23/07/2024;loja_fisica;Centro-Oeste;VLR-GO-01;5;vestuario;Preço competitivo para a qualidade que entrega. Muito satisfeita!;positivo;preço
+AV0444;30/09/2024;app;Centro-Oeste;VLR-GO-01;5;calcados;Tamanho exatamente como descrito. Ficou ótimo.;positivo;tamanho e caimento
+AV0445;13/04/2023;loja_fisica;Sudeste;VLR-MG-02;2;calcados;Não recebi no prazo e o rastreamento ficou parado por dias.;negativo;entrega
+AV0446;28/09/2023;site;Norte;VLR-RO-01;5;acessorios;Comprei durante a promoção e foi um excelente negócio.;positivo;preço
+AV0447;25/09/2024;app;Sul;VLR-SC-02;1;vestuario;Atendimento horrível. Esperei 1 hora na fila sem nenhuma atenção.;negativo;atendimento
+AV0448;01/05/2024;loja_fisica;Norte;VLR-AM-01;5;vestuario;Recebi em dois dias, muito mais rápido do que esperava. Ótimo serviço!;positivo;entrega
+AV0449;18/05/2024;loja_fisica;Norte;VLR-TO-01;5;vestuario;Material excelente, muito bem acabado. Recomendo demais!;positivo;qualidade do produto
+AV0450;03/10/2023;loja_fisica;Nordeste;VLR-SE-01;5;calcados;Ótimo custo-benefício. Produto de qualidade a um preço justo.;positivo;preço
+AV0451;12/06/2024;loja_fisica;Nordeste;VLR-PE-01;5;calcados;Chegou antes do prazo! Embalagem caprichada e produto em perfeito estado.;positivo;entrega
+AV0452;20/06/2024;site;Sul;VLR-RS-02;1;vestuario;Fui ofendida por uma funcionária na loja. Inadmissível.;negativo;atendimento
+AV0453;03/02/2023;loja_fisica;Nordeste;VLR-PB-01;5;vestuario;Ótimo custo-benefício. Produto de qualidade a um preço justo.;positivo;preço
+AV0454;12/10/2024;app;Centro-Oeste;VLR-MT-01;3;vestuario;O produto é bonito mas o tamanho ficou um pouco diferente do que esperava. A modelagem é um pouco larga.;neutro;tamanho e caimento
+AV0455;30/04/2024;loja_fisica;Nordeste;VLR-BA-03;4;acessorios;Recebi em dois dias, muito mais rápido do que esperava. Ótimo serviço!;positivo;entrega
+AV0456;19/10/2023;site;Nordeste;VLR-PB-01;3;calcados;O caimento não ficou como na foto, mas o produto tem boa qualidade de material.;neutro;tamanho e caimento
+AV0457;24/10/2024;loja_fisica;Norte;VLR-AM-01;4;acessorios;Equipe super prestativa e simpática. Me senti muito bem atendida.;positivo;atendimento
+AV0458;16/05/2023;app;Centro-Oeste;VLR-DF-01;4;vestuario;Fui muito bem atendida. A equipe conhece bem os produtos.;positivo;atendimento
+AV0459;27/12/2024;loja_fisica;Norte;VLR-TO-01;4;calcados;Produto chegou no prazo e bem embalado. Exatamente como na foto.;positivo;entrega
+AV0460;24/11/2024;site;Sudeste;VLR-SP-04;4;vestuario;Tamanho exatamente como descrito. Ficou ótimo.;positivo;tamanho e caimento
+AV0461;31/08/2024;loja_fisica;Norte;VLR-RO-01;5;calcados;Escolhi pelo guia de medidas e ficou perfeito. Recomendo seguir a tabela.;positivo;tamanho e caimento
+AV0462;17/10/2024;app;Centro-Oeste;VLR-GO-03;4;acessorios;Recebi em dois dias, muito mais rápido do que esperava. Ótimo serviço!;positivo;entrega
+AV0463;03/06/2023;app;Centro-Oeste;VLR-DF-01;5;vestuario;Caiu certinho! A tabela de tamanhos é muito precisa.;positivo;tamanho e caimento
+AV0464;28/11/2024;site;Norte;VLR-AC-01;5;calcados;Atendimento nota 10! A vendedora foi muito atenciosa e me ajudou a escolher o tamanho certo.;positivo;atendimento
+AV0465;06/02/2023;site;Sudeste;VLR-RJ-02;3;vestuario;Qualidade razoável para o preço. Não é ruim, mas já vi melhor.;neutro;qualidade do produto
+AV0466;18/11/2024;app;Nordeste;VLR-PE-02;4;acessorios;Entrega dentro do prazo e rastreamento funcionou perfeitamente.;positivo;entrega
+AV0467;10/04/2023;site;Centro-Oeste;VLR-MS-01;5;vestuario;Vale muito o preço. Produto durável e bonito.;positivo;preço
+AV0468;10/12/2023;app;Centro-Oeste;VLR-GO-02;4;acessorios;Material excelente, muito bem acabado. Recomendo demais!;positivo;qualidade do produto
+AV0469;06/12/2023;loja_fisica;Centro-Oeste;VLR-MT-01;5;calcados;Recebi em dois dias, muito mais rápido do que esperava. Ótimo serviço!;positivo;entrega
+AV0470;11/10/2024;loja_fisica;Sul;VLR-RS-03;5;vestuario;Tamanho exatamente como descrito. Ficou ótimo.;positivo;tamanho e caimento
+AV0471;26/01/2024;loja_fisica;Sul;VLR-PR-02;5;acessorios;Escolhi pelo guia de medidas e ficou perfeito. Recomendo seguir a tabela.;positivo;tamanho e caimento
+AV0472;17/12/2023;loja_fisica;Sudeste;VLR-SP-03;5;acessorios;Comprei durante a promoção e foi um excelente negócio.;positivo;preço
+AV0473;07/12/2023;loja_fisica;Nordeste;VLR-SE-01;5;vestuario;Atendimento excelente na loja. Voltarei com certeza!;positivo;atendimento
+AV0474;12/06/2023;loja_fisica;Norte;VLR-PA-02;3;calcados;Qualidade ok mas não é tão boa quanto parece nas fotos.;neutro;qualidade do produto
+AV0475;03/05/2024;app;Nordeste;VLR-PE-01;4;vestuario;Caiu certinho! A tabela de tamanhos é muito precisa.;positivo;tamanho e caimento
+AV0476;27/06/2024;app;Norte;VLR-MA-01;5;acessorios;Atendimento nota 10! A vendedora foi muito atenciosa e me ajudou a escolher o tamanho certo.;positivo;atendimento
+AV0477;16/04/2023;app;Norte;VLR-RO-01;3;vestuario;Comprei esperando mais. Não é ruim, mas também não encantou.;neutro;qualidade do produto
+AV0478;25/10/2023;loja_fisica;Sul;VLR-PR-01;1;vestuario;Não consegui cancelar o pedido. O SAC é inoperante.;negativo;atendimento
+AV0479;16/05/2024;app;Sul;VLR-PR-03;3;vestuario;O produto chegou, mas demorou quase o dobro do prazo previsto.;neutro;entrega
+AV0480;18/08/2023;site;Nordeste;VLR-PE-01;5;vestuario;Equipe super prestativa e simpática. Me senti muito bem atendida.;positivo;atendimento
+AV0481;08/02/2023;app;Norte;VLR-RO-01;2;calcados;SAC demorou 4 dias para me responder e não resolveu meu problema.;negativo;atendimento
+AV0482;08/11/2024;site;Centro-Oeste;VLR-MS-01;4;acessorios;Produto de ótima qualidade, superou minhas expectativas!;positivo;qualidade do produto
+AV0483;16/09/2023;app;Norte;VLR-AC-01;3;vestuario;Comprei esperando mais. Não é ruim, mas também não encantou.;neutro;qualidade do produto
+AV0484;08/11/2024;loja_fisica;Nordeste;VLR-BA-01;5;vestuario;Produto premium com um acabamento impecável. Adorei!;positivo;qualidade do produto
+AV0485;18/04/2023;app;Centro-Oeste;VLR-MT-01;5;calcados;Tamanho exatamente como descrito. Ficou ótimo.;positivo;tamanho e caimento
+AV0486;15/09/2024;loja_fisica;Sul;VLR-PR-02;2;vestuario;A qualidade não condiz com o valor cobrado. Produto muito frágil.;negativo;qualidade do produto
+AV0487;10/02/2023;site;Sul;VLR-RS-02;3;vestuario;Qualidade ok mas não é tão boa quanto parece nas fotos.;neutro;qualidade do produto
+AV0488;24/04/2023;loja_fisica;Sudeste;VLR-ES-01;1;vestuario;Atendimento horrível. Esperei 1 hora na fila sem nenhuma atenção.;negativo;atendimento
+AV0489;14/04/2023;site;Nordeste;VLR-BA-02;5;calcados;Entrega rápida e produto embalado com cuidado. Aprovadíssimo!;positivo;entrega
+AV0490;28/06/2023;site;Sudeste;VLR-RJ-03;3;vestuario;Esperava um tamanho M padrão mas veio maior do que o habitual.;neutro;tamanho e caimento
+AV0491;16/02/2023;site;Centro-Oeste;VLR-DF-01;3;vestuario;Tive que trocar de tamanho. A numeração parece inconsistente entre os modelos.;neutro;tamanho e caimento
+AV0492;06/04/2023;loja_fisica;Nordeste;VLR-MA-02;5;vestuario;Recebi em dois dias, muito mais rápido do que esperava. Ótimo serviço!;positivo;entrega
+AV0493;30/01/2024;loja_fisica;Nordeste;VLR-PE-02;4;vestuario;Escolhi pelo guia de medidas e ficou perfeito. Recomendo seguir a tabela.;positivo;tamanho e caimento
+AV0494;13/06/2023;loja_fisica;Nordeste;VLR-BA-01;5;acessorios;Nunca me decepcionei com a qualidade dos produtos da Valore. Sempre perfeito.;positivo;qualidade do produto
+AV0495;24/01/2024;app;Sul;VLR-RS-03;4;vestuario;Entrega dentro do prazo e rastreamento funcionou perfeitamente.;positivo;entrega
+AV0496;14/05/2024;site;Norte;VLR-PA-02;5;vestuario;Nunca me decepcionei com a qualidade dos produtos da Valore. Sempre perfeito.;positivo;qualidade do produto
+AV0497;25/11/2024;loja_fisica;Sudeste;VLR-RJ-01;3;vestuario;Qualidade razoável para o preço. Não é ruim, mas já vi melhor.;neutro;qualidade do produto
+AV0498;12/09/2023;app;Sul;VLR-PR-02;5;vestuario;Preço competitivo para a qualidade que entrega. Muito satisfeita!;positivo;preço
+AV0499;20/10/2024;loja_fisica;Sudeste;VLR-MG-02;5;vestuario;Fui muito bem atendida. A equipe conhece bem os produtos.;positivo;atendimento
+AV0500;25/11/2023;site;Sudeste;VLR-SP-02;5;calcados;Atendimento excelente na loja. Voltarei com certeza!;positivo;atendimento
+AV0501;29/08/2023;loja_fisica;Centro-Oeste;VLR-DF-01;3;vestuario;O caimento não ficou como na foto, mas o produto tem boa qualidade de material.;neutro;tamanho e caimento
+AV0502;02/05/2023;site;Sudeste;VLR-RJ-03;4;vestuario;Tamanho exatamente como descrito. Ficou ótimo.;positivo;tamanho e caimento
+AV0503;04/04/2023;loja_fisica;Norte;VLR-AP-01;4;vestuario;Entrega dentro do prazo e rastreamento funcionou perfeitamente.;positivo;entrega
+AV0504;25/02/2023;loja_fisica;Sul;VLR-RS-01;5;vestuario;A moça da loja foi incrível, paciente e me deu ótimas sugestões.;positivo;atendimento
+AV0505;08/01/2024;app;Centro-Oeste;VLR-MT-01;4;calcados;Caiu certinho! A tabela de tamanhos é muito precisa.;positivo;tamanho e caimento
+AV0506;10/10/2024;site;Norte;VLR-RO-01;3;vestuario;Demorou mais do que o prazo informado no site. Precisei acompanhar pelo SAC.;neutro;entrega
+AV0507;24/02/2024;loja_fisica;Sul;VLR-PR-03;2;vestuario;Entrega muito atrasada. Fui informada do atraso somente depois de reclamar.;negativo;entrega
+AV0508;15/07/2023;loja_fisica;Sul;VLR-RS-02;2;vestuario;Solicitei a troca há 15 dias e ainda não recebi o produto substituto.;negativo;troca e devolução
+AV0509;06/04/2024;loja_fisica;Sudeste;VLR-ES-01;5;calcados;Vale muito o preço. Produto durável e bonito.;positivo;preço
+AV0510;22/08/2024;loja_fisica;Sudeste;VLR-MG-01;5;acessorios;Vale muito o preço. Produto durável e bonito.;positivo;preço
+AV0511;06/09/2024;loja_fisica;Sul;VLR-PR-02;5;vestuario;Escolhi pelo guia de medidas e ficou perfeito. Recomendo seguir a tabela.;positivo;tamanho e caimento
+AV0512;18/12/2023;site;Sul;VLR-SC-01;3;vestuario;Entrega lenta. Fiquei uma semana além do prazo esperando.;neutro;entrega
+AV0513;19/12/2024;loja_fisica;Nordeste;VLR-AL-01;4;vestuario;Entrega dentro do prazo e rastreamento funcionou perfeitamente.;positivo;entrega
+AV0514;19/11/2024;loja_fisica;Nordeste;VLR-CE-02;5;calcados;Equipe super prestativa e simpática. Me senti muito bem atendida.;positivo;atendimento
+AV0515;29/07/2024;app;Sul;VLR-PR-02;4;calcados;Tamanho exatamente como descrito. Ficou ótimo.;positivo;tamanho e caimento
+AV0516;08/03/2024;site;Sul;VLR-SC-02;5;acessorios;Produto premium com um acabamento impecável. Adorei!;positivo;qualidade do produto
+AV0517;14/06/2023;loja_fisica;Norte;VLR-MA-01;2;vestuario;Já enviei o produto para troca e ainda não tenho previsão de retorno.;negativo;troca e devolução
+AV0518;08/07/2024;site;Nordeste;VLR-CE-02;5;vestuario;A qualidade do tecido é incrível, vale cada centavo.;positivo;qualidade do produto
+AV0519;24/10/2024;loja_fisica;Sudeste;VLR-MG-01;5;acessorios;Escolhi pelo guia de medidas e ficou perfeito. Recomendo seguir a tabela.;positivo;tamanho e caimento
+AV0520;11/11/2024;app;Nordeste;VLR-AL-01;5;vestuario;Nunca me decepcionei com a qualidade dos produtos da Valore. Sempre perfeito.;positivo;qualidade do produto
+AV0521;19/07/2024;loja_fisica;Sudeste;VLR-ES-01;5;vestuario;Produto de ótima qualidade, superou minhas expectativas!;positivo;qualidade do produto
+AV0522;10/10/2024;loja_fisica;Centro-Oeste;VLR-MT-01;5;calcados;Entrega dentro do prazo e rastreamento funcionou perfeitamente.;positivo;entrega
+AV0523;01/07/2023;app;Sul;VLR-SC-01;2;vestuario;Prazo descumprido e o SAC não conseguiu me dar informações precisas.;negativo;atendimento
+AV0524;23/07/2024;app;Nordeste;VLR-BA-01;2;vestuario;O processo de troca é muito lento e burocrático.;negativo;troca e devolução
+AV0525;08/06/2023;app;Nordeste;VLR-CE-03;3;vestuario;Tive que trocar de tamanho. A numeração parece inconsistente entre os modelos.;neutro;tamanho e caimento
+AV0526;08/11/2024;app;Centro-Oeste;VLR-DF-01;5;calcados;Produto chegou no prazo e bem embalado. Exatamente como na foto.;positivo;entrega
+AV0527;08/07/2023;app;Sul;VLR-RS-01;1;vestuario;Fui ofendida por uma funcionária na loja. Inadmissível.;negativo;atendimento
+AV0528;15/08/2023;loja_fisica;Sul;VLR-RS-02;4;vestuario;Atendimento excelente na loja. Voltarei com certeza!;positivo;atendimento
+AV0529;28/07/2024;loja_fisica;Centro-Oeste;VLR-MS-01;3;vestuario;O produto é bonito mas o tamanho ficou um pouco diferente do que esperava. A modelagem é um pouco larga.;neutro;tamanho e caimento
+AV0530;07/09/2023;loja_fisica;Centro-Oeste;VLR-MS-01;5;acessorios;A qualidade do tecido é incrível, vale cada centavo.;positivo;qualidade do produto
+AV0531;17/10/2023;site;Sudeste;VLR-RJ-02;5;vestuario;Produto premium com um acabamento impecável. Adorei!;positivo;qualidade do produto
+AV0532;29/10/2024;app;Centro-Oeste;VLR-MT-01;4;vestuario;Atendimento excelente na loja. Voltarei com certeza!;positivo;atendimento
+AV0533;04/08/2023;loja_fisica;Sul;VLR-PR-01;2;calcados;Botão saiu na primeira semana. Acabamento muito ruim.;negativo;qualidade do produto
+AV0534;15/03/2023;loja_fisica;Norte;VLR-AC-01;5;calcados;Atendimento nota 10! A vendedora foi muito atenciosa e me ajudou a escolher o tamanho certo.;positivo;atendimento
+AV0535;15/09/2023;app;Sudeste;VLR-SP-02;1;vestuario;Fui ofendida por uma funcionária na loja. Inadmissível.;negativo;atendimento
+AV0536;07/10/2024;site;Sul;VLR-RS-02;5;vestuario;Comprei durante a promoção e foi um excelente negócio.;positivo;preço
+AV0537;25/09/2024;loja_fisica;Centro-Oeste;VLR-MS-01;5;vestuario;Produto premium com um acabamento impecável. Adorei!;positivo;qualidade do produto
+AV0538;03/12/2024;app;Norte;VLR-AP-01;1;vestuario;Produto horrível. Desfiou logo na primeira semana de uso.;negativo;qualidade do produto
+AV0539;01/02/2023;site;Centro-Oeste;VLR-MT-01;3;calcados;Qualidade ok mas não é tão boa quanto parece nas fotos.;neutro;qualidade do produto
+AV0540;28/05/2023;loja_fisica;Sul;VLR-SC-02;5;acessorios;Recebi em dois dias, muito mais rápido do que esperava. Ótimo serviço!;positivo;entrega
+AV0541;09/08/2024;app;Norte;VLR-PA-01;4;vestuario;Tamanho exatamente como descrito. Ficou ótimo.;positivo;tamanho e caimento
+AV0542;23/10/2024;site;Sul;VLR-RS-01;3;vestuario;Gostei do produto mas esperava mais pelo valor que paguei.;neutro;preço
+AV0543;18/11/2024;loja_fisica;Nordeste;VLR-CE-01;5;vestuario;Caiu certinho! A tabela de tamanhos é muito precisa.;positivo;tamanho e caimento
+AV0544;14/09/2023;app;Sul;VLR-SC-02;4;calcados;Material excelente, muito bem acabado. Recomendo demais!;positivo;qualidade do produto
+AV0545;29/08/2023;app;Sul;VLR-PR-03;3;calcados;Esperava um tamanho M padrão mas veio maior do que o habitual.;neutro;tamanho e caimento
+AV0546;23/09/2024;loja_fisica;Sul;VLR-RS-03;3;vestuario;Demorou mais do que o prazo informado no site. Precisei acompanhar pelo SAC.;neutro;atendimento
+AV0547;22/06/2023;loja_fisica;Sul;VLR-RS-01;4;acessorios;A qualidade do tecido é incrível, vale cada centavo.;positivo;qualidade do produto
+AV0548;04/01/2024;site;Nordeste;VLR-PI-01;5;vestuario;Atendimento excelente na loja. Voltarei com certeza!;positivo;atendimento
+AV0549;22/04/2023;app;Sudeste;VLR-SP-05;3;vestuario;Produto ok, mas achei o preço um pouco salgado para o que é.;neutro;preço
+AV0550;03/10/2024;site;Centro-Oeste;VLR-MS-01;2;vestuario;Meu pedido chegou com 12 dias de atraso e sem nenhuma comunicação.;negativo;entrega
+AV0551;06/08/2023;site;Norte;VLR-AC-01;4;calcados;Produto premium com um acabamento impecável. Adorei!;positivo;qualidade do produto
+AV0552;02/06/2023;app;Centro-Oeste;VLR-MT-01;5;calcados;Produto chegou no prazo e bem embalado. Exatamente como na foto.;positivo;entrega
+AV0553;20/04/2024;site;Nordeste;VLR-PB-01;4;vestuario;Nunca me decepcionei com a qualidade dos produtos da Valore. Sempre perfeito.;positivo;qualidade do produto
+AV0554;10/06/2024;app;Centro-Oeste;VLR-MS-01;4;calcados;A moça da loja foi incrível, paciente e me deu ótimas sugestões.;positivo;atendimento
+AV0555;30/05/2023;loja_fisica;Nordeste;VLR-PI-01;5;acessorios;Preço competitivo para a qualidade que entrega. Muito satisfeita!;positivo;preço
+AV0556;28/08/2023;loja_fisica;Norte;VLR-PA-01;4;vestuario;Material excelente, muito bem acabado. Recomendo demais!;positivo;qualidade do produto
+AV0557;17/02/2023;site;Sul;VLR-RS-03;3;acessorios;Esperava um tamanho M padrão mas veio maior do que o habitual.;neutro;tamanho e caimento
+AV0558;27/09/2023;app;Norte;VLR-TO-01;4;calcados;A moça da loja foi incrível, paciente e me deu ótimas sugestões.;positivo;atendimento
+AV0559;21/01/2024;loja_fisica;Sudeste;VLR-SP-02;5;vestuario;Fui muito bem atendida. A equipe conhece bem os produtos.;positivo;atendimento
+AV0560;10/09/2024;loja_fisica;Sudeste;VLR-RJ-03;5;calcados;Produto premium com um acabamento impecável. Adorei!;positivo;qualidade do produto
+AV0561;05/08/2023;loja_fisica;Nordeste;VLR-RN-01;3;calcados;Gostei do produto mas esperava mais pelo valor que paguei.;neutro;preço
+AV0562;29/02/2024;loja_fisica;Nordeste;VLR-BA-02;5;calcados;Chegou antes do prazo! Embalagem caprichada e produto em perfeito estado.;positivo;entrega
+AV0563;25/02/2024;app;Sudeste;VLR-MG-02;4;vestuario;Material excelente, muito bem acabado. Recomendo demais!;positivo;qualidade do produto
+AV0564;10/02/2023;loja_fisica;Norte;VLR-PA-02;4;calcados;Atendimento nota 10! A vendedora foi muito atenciosa e me ajudou a escolher o tamanho certo.;positivo;atendimento
+AV0565;31/07/2024;loja_fisica;Nordeste;VLR-PE-01;3;calcados;Esperava um tamanho M padrão mas veio maior do que o habitual.;neutro;tamanho e caimento
+AV0566;24/06/2023;loja_fisica;Norte;VLR-RR-01;4;acessorios;A moça da loja foi incrível, paciente e me deu ótimas sugestões.;positivo;atendimento
+AV0567;07/06/2024;loja_fisica;Sul;VLR-PR-03;4;calcados;Entrega rápida e produto embalado com cuidado. Aprovadíssimo!;positivo;entrega
+AV0568;30/01/2024;site;Centro-Oeste;VLR-GO-01;4;vestuario;Atendimento nota 10! A vendedora foi muito atenciosa e me ajudou a escolher o tamanho certo.;positivo;atendimento
+AV0569;03/06/2023;loja_fisica;Norte;VLR-AP-01;5;calcados;Caiu certinho! A tabela de tamanhos é muito precisa.;positivo;tamanho e caimento
+AV0570;28/06/2024;app;Nordeste;VLR-BA-01;4;acessorios;Produto de ótima qualidade, superou minhas expectativas!;positivo;qualidade do produto
+AV0571;25/11/2024;app;Sudeste;VLR-MG-01;5;calcados;Comprei durante a promoção e foi um excelente negócio.;positivo;preço
+AV0572;08/05/2024;site;Centro-Oeste;VLR-MT-01;5;vestuario;Preço competitivo para a qualidade que entrega. Muito satisfeita!;positivo;preço
+AV0573;18/09/2023;site;Sul;VLR-PR-02;5;vestuario;Vale muito o preço. Produto durável e bonito.;positivo;qualidade do produto
+AV0574;06/01/2023;loja_fisica;Norte;VLR-AC-01;5;vestuario;Produto premium com um acabamento impecável. Adorei!;positivo;qualidade do produto
+AV0575;20/11/2023;loja_fisica;Sul;VLR-SC-01;1;calcados;Cancelamento negado mesmo dentro do prazo legal. Absurdo.;negativo;troca e devolução
+AV0576;02/07/2024;loja_fisica;Norte;VLR-TO-01;5;vestuario;Preço competitivo para a qualidade que entrega. Muito satisfeita!;positivo;preço
+AV0577;24/07/2024;loja_fisica;Sul;VLR-SC-01;5;vestuario;Vale muito o preço. Produto durável e bonito.;positivo;qualidade do produto
+AV0578;23/12/2024;app;Centro-Oeste;VLR-GO-03;4;calcados;Tamanho exatamente como descrito. Ficou ótimo.;positivo;tamanho e caimento
+AV0579;17/12/2024;site;Nordeste;VLR-AL-01;4;vestuario;Atendimento nota 10! A vendedora foi muito atenciosa e me ajudou a escolher o tamanho certo.;positivo;atendimento
+AV0580;14/12/2024;app;Nordeste;VLR-SE-01;5;calcados;Material excelente, muito bem acabado. Recomendo demais!;positivo;qualidade do produto
+AV0581;27/04/2024;site;Sudeste;VLR-SP-02;1;calcados;Atendimento horrível. Esperei 1 hora na fila sem nenhuma atenção.;negativo;atendimento
+AV0582;29/01/2024;loja_fisica;Norte;VLR-PA-01;3;calcados;Comprei esperando mais. Não é ruim, mas também não encantou.;neutro;qualidade do produto
+AV0583;29/06/2023;loja_fisica;Sul;VLR-PR-01;5;acessorios;Comprei durante a promoção e foi um excelente negócio.;positivo;preço
+AV0584;04/02/2023;loja_fisica;Norte;VLR-AP-01;5;vestuario;Tamanho exatamente como descrito. Ficou ótimo.;positivo;tamanho e caimento
+AV0585;01/11/2024;app;Sul;VLR-PR-01;4;vestuario;Material excelente, muito bem acabado. Recomendo demais!;positivo;qualidade do produto
+AV0586;20/02/2024;site;Norte;VLR-RO-01;5;calcados;Caiu certinho! A tabela de tamanhos é muito precisa.;positivo;tamanho e caimento
+AV0587;26/07/2024;loja_fisica;Sul;VLR-PR-02;5;vestuario;Escolhi pelo guia de medidas e ficou perfeito. Recomendo seguir a tabela.;positivo;tamanho e caimento
+AV0588;10/04/2024;site;Centro-Oeste;VLR-MS-01;3;acessorios;Comprei esperando mais. Não é ruim, mas também não encantou.;neutro;qualidade do produto
+AV0589;30/05/2024;loja_fisica;Norte;VLR-PA-01;4;calcados;Recebi em dois dias, muito mais rápido do que esperava. Ótimo serviço!;positivo;entrega
+AV0590;11/08/2024;site;Norte;VLR-AP-01;5;calcados;Produto chegou no prazo e bem embalado. Exatamente como na foto.;positivo;entrega
+AV0591;14/04/2024;app;Sudeste;VLR-RJ-01;5;acessorios;Ótimo custo-benefício. Produto de qualidade a um preço justo.;positivo;preço
+AV0592;14/08/2023;loja_fisica;Sudeste;VLR-ES-01;1;calcados;Me enviaram o produto de outra pessoa. Uma bagunça total.;negativo;entrega
+AV0593;27/09/2023;site;Sudeste;VLR-SP-01;4;calcados;Atendimento excelente na loja. Voltarei com certeza!;positivo;atendimento
+AV0594;02/07/2023;loja_fisica;Norte;VLR-RO-01;5;vestuario;Preço competitivo para a qualidade que entrega. Muito satisfeita!;positivo;preço
+AV0595;30/11/2024;loja_fisica;Centro-Oeste;VLR-GO-02;4;acessorios;A moça da loja foi incrível, paciente e me deu ótimas sugestões.;positivo;atendimento
+AV0596;27/07/2023;loja_fisica;Nordeste;VLR-CE-02;3;vestuario;Qualidade razoável para o preço. Não é ruim, mas já vi melhor.;neutro;qualidade do produto
+AV0597;10/11/2024;site;Nordeste;VLR-BA-02;2;calcados;SAC demorou 4 dias para me responder e não resolveu meu problema.;negativo;atendimento
+AV0598;16/01/2024;site;Norte;VLR-MA-01;4;calcados;Produto chegou no prazo e bem embalado. Exatamente como na foto.;positivo;entrega
+AV0599;13/08/2024;site;Sul;VLR-SC-02;4;vestuario;Atendimento nota 10! A vendedora foi muito atenciosa e me ajudou a escolher o tamanho certo.;positivo;atendimento
+AV0600;08/02/2024;site;Sul;VLR-PR-01;4;vestuario;A moça da loja foi incrível, paciente e me deu ótimas sugestões.;positivo;atendimento
+AV0601;04/08/2023;app;Norte;VLR-MA-01;4;vestuario;Tamanho exatamente como descrito. Ficou ótimo.;positivo;tamanho e caimento
+AV0602;27/09/2023;loja_fisica;Norte;VLR-TO-01;4;vestuario;Atendimento excelente na loja. Voltarei com certeza!;positivo;atendimento
+AV0603;04/08/2023;site;Sudeste;VLR-SP-03;3;vestuario;Comprei esperando mais. Não é ruim, mas também não encantou.;neutro;qualidade do produto
+AV0604;15/05/2023;loja_fisica;Centro-Oeste;VLR-MT-01;4;vestuario;Atendimento nota 10! A vendedora foi muito atenciosa e me ajudou a escolher o tamanho certo.;positivo;atendimento
+AV0605;03/06/2023;site;Centro-Oeste;VLR-MT-01;4;vestuario;Caiu certinho! A tabela de tamanhos é muito precisa.;positivo;tamanho e caimento
+AV0606;30/06/2024;loja_fisica;Nordeste;VLR-PB-01;2;calcados;Troca solicitada e nada resolvido. Atendimento confuso.;negativo;troca e devolução
+AV0607;08/12/2024;loja_fisica;Centro-Oeste;VLR-GO-01;5;vestuario;Atendimento nota 10! A vendedora foi muito atenciosa e me ajudou a escolher o tamanho certo.;positivo;atendimento
+AV0608;09/12/2023;site;Nordeste;VLR-PI-01;4;vestuario;Recebi em dois dias, muito mais rápido do que esperava. Ótimo serviço!;positivo;entrega
+AV0609;26/02/2024;app;Centro-Oeste;VLR-GO-03;5;vestuario;A qualidade do tecido é incrível, vale cada centavo.;positivo;qualidade do produto
+AV0610;19/10/2023;loja_fisica;Sul;VLR-PR-03;4;acessorios;Recebi em dois dias, muito mais rápido do que esperava. Ótimo serviço!;positivo;entrega
+AV0611;21/10/2023;app;Sul;VLR-PR-02;5;vestuario;Vale muito o preço. Produto durável e bonito.;positivo;preço
+AV0612;08/08/2024;app;Nordeste;VLR-PE-01;5;calcados;Ótimo custo-benefício. Produto de qualidade a um preço justo.;positivo;preço
+AV0613;28/12/2024;loja_fisica;Norte;VLR-RO-01;3;calcados;Demorou mais do que o prazo informado no site. Precisei acompanhar pelo SAC.;neutro;entrega
+AV0614;17/06/2024;loja_fisica;Sudeste;VLR-RJ-01;4;calcados;Escolhi pelo guia de medidas e ficou perfeito. Recomendo seguir a tabela.;positivo;tamanho e caimento
+AV0615;15/09/2023;loja_fisica;Nordeste;VLR-AL-01;1;vestuario;Produto nunca chegou. SAC não consegue resolver. Uma vergonha.;negativo;entrega
+AV0616;27/01/2023;loja_fisica;Nordeste;VLR-PE-02;2;vestuario;SAC demorou 4 dias para me responder e não resolveu meu problema.;negativo;atendimento
+AV0617;04/02/2024;loja_fisica;Norte;VLR-PA-01;4;calcados;Entrega rápida e produto embalado com cuidado. Aprovadíssimo!;positivo;entrega
+AV0618;24/06/2023;app;Nordeste;VLR-BA-03;4;vestuario;Produto de ótima qualidade, superou minhas expectativas!;positivo;qualidade do produto
+AV0619;07/07/2024;site;Centro-Oeste;VLR-MT-01;3;vestuario;Demorou mais do que o prazo informado no site. Precisei acompanhar pelo SAC.;neutro;entrega
+AV0620;03/09/2024;loja_fisica;Sudeste;VLR-MG-01;5;vestuario;Comprei durante a promoção e foi um excelente negócio.;positivo;preço
+AV0621;21/08/2023;app;Sul;VLR-RS-01;4;vestuario;Nunca me decepcionei com a qualidade dos produtos da Valore. Sempre perfeito.;positivo;qualidade do produto
+AV0622;19/06/2024;loja_fisica;Centro-Oeste;VLR-GO-03;3;vestuario;Qualidade razoável para o preço. Não é ruim, mas já vi melhor.;neutro;preço
+AV0623;03/05/2024;app;Centro-Oeste;VLR-MT-01;1;acessorios;Produto horrível. Desfiou logo na primeira semana de uso.;negativo;qualidade do produto
+AV0624;13/07/2023;site;Sudeste;VLR-SP-01;4;vestuario;Tamanho exatamente como descrito. Ficou ótimo.;positivo;tamanho e caimento
+AV0625;23/01/2024;loja_fisica;Sudeste;VLR-ES-01;2;vestuario;A qualidade não condiz com o valor cobrado. Produto muito frágil.;negativo;qualidade do produto
+AV0626;28/06/2024;loja_fisica;Norte;VLR-TO-01;3;vestuario;Entrega lenta. Fiquei uma semana além do prazo esperando.;neutro;entrega
+AV0627;11/04/2024;site;Nordeste;VLR-CE-02;2;vestuario;Ninguém me atendeu adequadamente na loja. Ambiente desorganizado.;negativo;atendimento
+AV0628;01/07/2024;app;Sul;VLR-PR-03;3;vestuario;Tive que trocar de tamanho. A numeração parece inconsistente entre os modelos.;neutro;tamanho e caimento
+AV0629;27/08/2023;loja_fisica;Norte;VLR-RR-01;2;calcados;Prazo descumprido e o SAC não conseguiu me dar informações precisas.;negativo;entrega
+AV0630;25/05/2024;app;Norte;VLR-TO-01;3;calcados;Entrega lenta. Fiquei uma semana além do prazo esperando.;neutro;entrega
+AV0631;06/02/2024;loja_fisica;Norte;VLR-PA-02;5;vestuario;Produto premium com um acabamento impecável. Adorei!;positivo;qualidade do produto
+AV0632;13/01/2023;loja_fisica;Sudeste;VLR-SP-05;5;calcados;Material excelente, muito bem acabado. Recomendo demais!;positivo;qualidade do produto
+AV0633;07/04/2023;site;Sudeste;VLR-SP-01;4;vestuario;A moça da loja foi incrível, paciente e me deu ótimas sugestões.;positivo;atendimento
+AV0634;13/02/2023;app;Sudeste;VLR-RJ-01;3;vestuario;Esperava um tamanho M padrão mas veio maior do que o habitual.;neutro;tamanho e caimento
+AV0635;12/08/2023;app;Sudeste;VLR-SP-01;2;acessorios;Prazo descumprido e o SAC não conseguiu me dar informações precisas.;negativo;atendimento
+AV0636;10/02/2024;loja_fisica;Sudeste;VLR-SP-05;2;calcados;A costura soltou depois da primeira lavagem. Muito decepcionante.;negativo;qualidade do produto
+AV0637;02/04/2023;app;Norte;VLR-PA-02;5;vestuario;Equipe super prestativa e simpática. Me senti muito bem atendida.;positivo;atendimento
+AV0638;31/12/2023;loja_fisica;Sudeste;VLR-ES-01;4;vestuario;Fui muito bem atendida. A equipe conhece bem os produtos.;positivo;atendimento
+AV0639;22/12/2023;loja_fisica;Norte;VLR-AP-01;3;calcados;Comprei esperando mais. Não é ruim, mas também não encantou.;neutro;qualidade do produto
+AV0640;10/02/2023;loja_fisica;Nordeste;VLR-AL-01;4;vestuario;Tamanho exatamente como descrito. Ficou ótimo.;positivo;tamanho e caimento
+AV0641;11/07/2023;app;Sudeste;VLR-RJ-03;4;vestuario;Recebi em dois dias, muito mais rápido do que esperava. Ótimo serviço!;positivo;entrega
+AV0642;27/06/2024;loja_fisica;Sudeste;VLR-MG-01;5;vestuario;A moça da loja foi incrível, paciente e me deu ótimas sugestões.;positivo;atendimento
+AV0643;15/10/2024;site;Centro-Oeste;VLR-MT-01;4;vestuario;Tamanho exatamente como descrito. Ficou ótimo.;positivo;tamanho e caimento
+AV0644;02/09/2023;site;Nordeste;VLR-CE-03;4;calcados;Chegou antes do prazo! Embalagem caprichada e produto em perfeito estado.;positivo;entrega
+AV0645;07/06/2023;site;Sul;VLR-RS-03;2;calcados;Já enviei o produto para troca e ainda não tenho previsão de retorno.;negativo;troca e devolução
+AV0646;14/02/2023;app;Sudeste;VLR-MG-01;2;calcados;O tecido desbotou com poucos usos. Não esperava isso pelo preço pago.;negativo;qualidade do produto
+AV0647;19/10/2024;loja_fisica;Norte;VLR-PA-01;4;vestuario;Tamanho exatamente como descrito. Ficou ótimo.;positivo;tamanho e caimento
+AV0648;15/08/2023;app;Sudeste;VLR-SP-05;5;vestuario;Tamanho exatamente como descrito. Ficou ótimo.;positivo;tamanho e caimento
+AV0649;23/03/2023;loja_fisica;Norte;VLR-RR-01;5;acessorios;Ótimo custo-benefício. Produto de qualidade a um preço justo.;positivo;preço
+AV0650;26/12/2024;app;Centro-Oeste;VLR-MT-01;5;calcados;Produto premium com um acabamento impecável. Adorei!;positivo;qualidade do produto
+AV0651;10/08/2023;app;Centro-Oeste;VLR-GO-03;5;vestuario;Caiu certinho! A tabela de tamanhos é muito precisa.;positivo;tamanho e caimento
+AV0652;03/11/2024;app;Norte;VLR-AM-01;4;vestuario;Fui muito bem atendida. A equipe conhece bem os produtos.;positivo;atendimento
+AV0653;15/10/2024;app;Nordeste;VLR-AL-01;4;vestuario;Produto chegou no prazo e bem embalado. Exatamente como na foto.;positivo;entrega
+AV0654;31/05/2024;site;Sudeste;VLR-SP-03;2;vestuario;O processo de troca é muito lento e burocrático.;negativo;troca e devolução
+AV0655;17/07/2024;site;Sul;VLR-RS-01;4;acessorios;Recebi em dois dias, muito mais rápido do que esperava. Ótimo serviço!;positivo;entrega
+AV0656;30/07/2024;site;Sudeste;VLR-RJ-01;3;calcados;Produto mediano. Para o preço cobrado, esperava mais acabamento.;neutro;qualidade do produto
+AV0657;11/02/2024;site;Sul;VLR-RS-03;3;vestuario;O produto é bonito mas o tamanho ficou um pouco diferente do que esperava. A modelagem é um pouco larga.;neutro;tamanho e caimento
+AV0658;16/08/2023;app;Centro-Oeste;VLR-GO-03;4;vestuario;Atendimento excelente na loja. Voltarei com certeza!;positivo;atendimento
+AV0659;07/06/2024;site;Norte;VLR-TO-01;5;acessorios;Tamanho exatamente como descrito. Ficou ótimo.;positivo;tamanho e caimento
+AV0660;29/09/2023;loja_fisica;Sul;VLR-RS-01;1;vestuario;Péssima qualidade. O produto veio com defeito de fábrica.;negativo;qualidade do produto
+AV0661;11/08/2023;loja_fisica;Nordeste;VLR-MA-02;3;vestuario;Esperava um tamanho M padrão mas veio maior do que o habitual.;neutro;tamanho e caimento
+AV0662;08/04/2023;loja_fisica;Sudeste;VLR-MG-02;5;calcados;Tamanho exatamente como descrito. Ficou ótimo.;positivo;tamanho e caimento
+AV0663;27/02/2023;loja_fisica;Centro-Oeste;VLR-MT-01;5;vestuario;Recebi em dois dias, muito mais rápido do que esperava. Ótimo serviço!;positivo;entrega
+AV0664;08/09/2024;loja_fisica;Sudeste;VLR-SP-04;5;calcados;Nunca me decepcionei com a qualidade dos produtos da Valore. Sempre perfeito.;positivo;qualidade do produto
+AV0665;01/12/2023;loja_fisica;Norte;VLR-AP-01;1;calcados;O atendente do SAC foi extremamente grosseiro e não resolveu nada.;negativo;atendimento
+AV0666;01/09/2024;loja_fisica;Nordeste;VLR-PE-01;5;acessorios;Tamanho exatamente como descrito. Ficou ótimo.;positivo;tamanho e caimento
+AV0667;11/12/2023;loja_fisica;Norte;VLR-AC-01;3;vestuario;O caimento não ficou como na foto, mas o produto tem boa qualidade de material.;neutro;tamanho e caimento
+AV0668;28/05/2024;app;Sul;VLR-SC-02;4;vestuario;Tamanho exatamente como descrito. Ficou ótimo.;positivo;tamanho e caimento
+AV0669;29/10/2024;site;Nordeste;VLR-CE-01;4;vestuario;Fui muito bem atendida. A equipe conhece bem os produtos.;positivo;atendimento
+AV0670;16/03/2024;site;Sul;VLR-SC-01;4;vestuario;Entrega dentro do prazo e rastreamento funcionou perfeitamente.;positivo;entrega
+AV0671;25/11/2023;loja_fisica;Norte;VLR-RO-01;4;vestuario;Entrega dentro do prazo e rastreamento funcionou perfeitamente.;positivo;entrega
+AV0672;28/03/2024;site;Norte;VLR-RO-01;2;calcados;Botão saiu na primeira semana. Acabamento muito ruim.;negativo;qualidade do produto
+AV0673;29/03/2023;site;Norte;VLR-RO-01;3;vestuario;O produto é bonito mas o tamanho ficou um pouco diferente do que esperava. A modelagem é um pouco larga.;neutro;tamanho e caimento
+AV0674;22/10/2023;site;Nordeste;VLR-PB-01;5;calcados;A qualidade do tecido é incrível, vale cada centavo.;positivo;qualidade do produto
+AV0675;04/07/2024;loja_fisica;Norte;VLR-RO-01;4;vestuario;Equipe super prestativa e simpática. Me senti muito bem atendida.;positivo;atendimento
+AV0676;25/05/2023;app;Sul;VLR-RS-03;3;calcados;O caimento não ficou como na foto, mas o produto tem boa qualidade de material.;neutro;tamanho e caimento
+AV0677;18/10/2023;site;Sul;VLR-SC-02;4;vestuario;Fui muito bem atendida. A equipe conhece bem os produtos.;positivo;atendimento
+AV0678;07/11/2024;loja_fisica;Centro-Oeste;VLR-GO-01;5;vestuario;Recebi em dois dias, muito mais rápido do que esperava. Ótimo serviço!;positivo;entrega
+AV0679;25/01/2024;loja_fisica;Norte;VLR-AC-01;5;vestuario;Tamanho exatamente como descrito. Ficou ótimo.;positivo;tamanho e caimento
+AV0680;23/07/2023;site;Norte;VLR-AP-01;4;vestuario;Tamanho exatamente como descrito. Ficou ótimo.;positivo;tamanho e caimento
+AV0681;07/02/2024;loja_fisica;Norte;VLR-TO-01;5;vestuario;Atendimento nota 10! A vendedora foi muito atenciosa e me ajudou a escolher o tamanho certo.;positivo;atendimento
+AV0682;28/05/2024;app;Centro-Oeste;VLR-GO-03;3;vestuario;O produto chegou, mas demorou quase o dobro do prazo previsto.;neutro;entrega
+AV0683;14/10/2023;site;Centro-Oeste;VLR-GO-01;5;acessorios;Equipe super prestativa e simpática. Me senti muito bem atendida.;positivo;atendimento
+AV0684;17/06/2024;site;Centro-Oeste;VLR-GO-01;4;calcados;A moça da loja foi incrível, paciente e me deu ótimas sugestões.;positivo;atendimento
+AV0685;04/12/2023;app;Nordeste;VLR-CE-02;3;acessorios;Comprei esperando mais. Não é ruim, mas também não encantou.;neutro;qualidade do produto
+AV0686;27/07/2023;loja_fisica;Nordeste;VLR-RN-01;2;calcados;A qualidade não condiz com o valor cobrado. Produto muito frágil.;negativo;qualidade do produto
+AV0687;01/08/2024;site;Sul;VLR-PR-03;3;calcados;Qualidade razoável para o preço. Não é ruim, mas já vi melhor.;neutro;qualidade do produto
+AV0688;30/05/2023;app;Norte;VLR-PA-01;5;vestuario;A qualidade do tecido é incrível, vale cada centavo.;positivo;qualidade do produto
+AV0689;08/10/2023;site;Sudeste;VLR-ES-01;3;acessorios;Gostei do produto mas esperava mais pelo valor que paguei.;neutro;preço
+AV0690;19/09/2024;loja_fisica;Norte;VLR-TO-01;1;calcados;Pedi um vestido azul e recebi uma calça bege. Incompetência.;negativo;troca e devolução
+AV0691;03/05/2024;loja_fisica;Nordeste;VLR-BA-02;1;calcados;Pedi um vestido azul e recebi uma calça bege. Incompetência.;negativo;entrega
+AV0692;18/05/2024;app;Sul;VLR-PR-03;4;acessorios;Caiu certinho! A tabela de tamanhos é muito precisa.;positivo;tamanho e caimento
+AV0693;04/10/2023;loja_fisica;Nordeste;VLR-SE-01;1;acessorios;Tentei cancelar o pedido e fui completamente ignorada. Péssimo.;negativo;atendimento
+AV0694;16/05/2024;site;Nordeste;VLR-PE-02;1;acessorios;Material de baixíssima qualidade. Não vale nem a metade do preço.;negativo;qualidade do produto
+AV0695;25/01/2024;loja_fisica;Nordeste;VLR-MA-02;5;calcados;Produto chegou no prazo e bem embalado. Exatamente como na foto.;positivo;entrega
+AV0696;07/04/2024;site;Sul;VLR-PR-01;4;vestuario;Caiu certinho! A tabela de tamanhos é muito precisa.;positivo;tamanho e caimento
+AV0697;01/02/2024;app;Nordeste;VLR-AL-01;3;vestuario;Tive que trocar de tamanho. A numeração parece inconsistente entre os modelos.;neutro;tamanho e caimento
+AV0698;08/03/2024;loja_fisica;Centro-Oeste;VLR-GO-03;5;vestuario;Entrega dentro do prazo e rastreamento funcionou perfeitamente.;positivo;entrega
+AV0699;07/04/2024;app;Norte;VLR-RR-01;5;calcados;Produto premium com um acabamento impecável. Adorei!;positivo;qualidade do produto
+AV0700;28/02/2024;loja_fisica;Norte;VLR-AP-01;4;vestuario;Produto chegou no prazo e bem embalado. Exatamente como na foto.;positivo;entrega
+AV0701;03/04/2023;loja_fisica;Norte;VLR-AM-01;4;acessorios;Recebi em dois dias, muito mais rápido do que esperava. Ótimo serviço!;positivo;entrega
+AV0702;11/10/2024;app;Nordeste;VLR-BA-02;2;calcados;Solicitei a troca há 15 dias e ainda não recebi o produto substituto.;negativo;troca e devolução
+AV0703;25/01/2024;app;Sul;VLR-PR-03;5;vestuario;Material excelente, muito bem acabado. Recomendo demais!;positivo;qualidade do produto
+AV0704;29/05/2023;app;Centro-Oeste;VLR-GO-02;4;vestuario;Atendimento nota 10! A vendedora foi muito atenciosa e me ajudou a escolher o tamanho certo.;positivo;atendimento
+AV0705;05/07/2023;loja_fisica;Sudeste;VLR-RJ-03;5;vestuario;Material excelente, muito bem acabado. Recomendo demais!;positivo;qualidade do produto
+AV0706;25/05/2024;loja_fisica;Nordeste;VLR-BA-01;5;vestuario;Caiu certinho! A tabela de tamanhos é muito precisa.;positivo;tamanho e caimento
+AV0707;28/03/2024;site;Sul;VLR-RS-03;3;vestuario;A numeração do calçado não bateu exatamente. Meu 38 usual ficou apertado.;neutro;tamanho e caimento
+AV0708;24/07/2024;loja_fisica;Sul;VLR-SC-02;5;calcados;Atendimento nota 10! A vendedora foi muito atenciosa e me ajudou a escolher o tamanho certo.;positivo;atendimento
+AV0709;03/02/2023;loja_fisica;Nordeste;VLR-BA-01;5;vestuario;Tamanho exatamente como descrito. Ficou ótimo.;positivo;tamanho e caimento
+AV0710;02/07/2023;loja_fisica;Centro-Oeste;VLR-GO-01;2;vestuario;A qualidade não condiz com o valor cobrado. Produto muito frágil.;negativo;qualidade do produto
+AV0711;15/08/2024;app;Sul;VLR-PR-03;5;acessorios;Chegou antes do prazo! Embalagem caprichada e produto em perfeito estado.;positivo;entrega
+AV0712;13/03/2024;site;Norte;VLR-AC-01;3;calcados;Esperava um tamanho M padrão mas veio maior do que o habitual.;neutro;tamanho e caimento
+AV0713;28/02/2024;loja_fisica;Sudeste;VLR-SP-05;5;vestuario;Caiu certinho! A tabela de tamanhos é muito precisa.;positivo;tamanho e caimento
+AV0714;25/06/2024;app;Nordeste;VLR-AL-01;2;acessorios;Aguardei mais de 20 dias por um pedido com prazo de 7 dias.;negativo;entrega
+AV0715;21/11/2023;site;Sul;VLR-SC-02;5;vestuario;Entrega dentro do prazo e rastreamento funcionou perfeitamente.;positivo;entrega
+AV0716;23/05/2024;site;Sul;VLR-PR-03;3;calcados;Produto agradável, mas o acabamento poderia ser melhor.;neutro;qualidade do produto
+AV0717;02/01/2023;site;Nordeste;VLR-CE-02;3;acessorios;O produto é bonito mas o tamanho ficou um pouco diferente do que esperava. A modelagem é um pouco larga.;neutro;tamanho e caimento
+AV0718;29/02/2024;app;Sudeste;VLR-SP-04;2;calcados;Fui mal atendida na loja. A vendedora foi grossa e pouco prestativa.;negativo;atendimento
+AV0719;26/07/2023;loja_fisica;Centro-Oeste;VLR-GO-02;5;vestuario;Recebi em dois dias, muito mais rápido do que esperava. Ótimo serviço!;positivo;entrega
+AV0720;27/04/2023;loja_fisica;Norte;VLR-RO-01;4;calcados;Recebi em dois dias, muito mais rápido do que esperava. Ótimo serviço!;positivo;entrega
+AV0721;18/07/2023;app;Sudeste;VLR-SP-01;4;calcados;Recebi em dois dias, muito mais rápido do que esperava. Ótimo serviço!;positivo;entrega
+AV0722;09/06/2023;site;Sudeste;VLR-ES-01;5;vestuario;Preço competitivo para a qualidade que entrega. Muito satisfeita!;positivo;preço
+AV0723;03/11/2023;site;Sudeste;VLR-SP-01;3;calcados;Demorou mais do que o prazo informado no site. Precisei acompanhar pelo SAC.;neutro;atendimento
+AV0724;29/12/2023;loja_fisica;Sul;VLR-RS-01;4;calcados;Material excelente, muito bem acabado. Recomendo demais!;positivo;qualidade do produto
+AV0725;19/06/2023;site;Centro-Oeste;VLR-MT-01;3;calcados;Qualidade ok mas não é tão boa quanto parece nas fotos.;neutro;qualidade do produto
+AV0726;19/11/2023;loja_fisica;Sul;VLR-SC-02;5;calcados;A qualidade do tecido é incrível, vale cada centavo.;positivo;qualidade do produto
+AV0727;06/11/2023;loja_fisica;Sudeste;VLR-RJ-01;5;vestuario;Fui muito bem atendida. A equipe conhece bem os produtos.;positivo;atendimento
+AV0728;05/04/2023;loja_fisica;Centro-Oeste;VLR-GO-01;4;calcados;Tamanho exatamente como descrito. Ficou ótimo.;positivo;tamanho e caimento
+AV0729;10/05/2024;site;Norte;VLR-PA-02;5;vestuario;Escolhi pelo guia de medidas e ficou perfeito. Recomendo seguir a tabela.;positivo;tamanho e caimento
+AV0730;16/05/2023;loja_fisica;Centro-Oeste;VLR-MS-01;5;calcados;Atendimento nota 10! A vendedora foi muito atenciosa e me ajudou a escolher o tamanho certo.;positivo;atendimento
+AV0731;15/02/2023;loja_fisica;Sudeste;VLR-SP-02;5;vestuario;Caiu certinho! A tabela de tamanhos é muito precisa.;positivo;tamanho e caimento
+AV0732;16/11/2023;app;Centro-Oeste;VLR-MS-01;1;calcados;Estou sem o produto e sem devolução do dinheiro. Absurdo.;negativo;troca e devolução
+AV0733;27/03/2024;loja_fisica;Nordeste;VLR-CE-02;3;vestuario;Esperava um tamanho M padrão mas veio maior do que o habitual.;neutro;tamanho e caimento
+AV0734;15/04/2023;loja_fisica;Nordeste;VLR-MA-02;2;calcados;A qualidade não condiz com o valor cobrado. Produto muito frágil.;negativo;qualidade do produto
+AV0735;25/06/2023;loja_fisica;Sul;VLR-SC-02;2;calcados;Entrega muito atrasada. Fui informada do atraso somente depois de reclamar.;negativo;entrega
+AV0736;27/04/2024;site;Sul;VLR-PR-01;4;vestuario;Produto de ótima qualidade, superou minhas expectativas!;positivo;qualidade do produto
+AV0737;29/08/2024;loja_fisica;Sudeste;VLR-SP-03;4;calcados;Tamanho exatamente como descrito. Ficou ótimo.;positivo;tamanho e caimento
+AV0738;30/06/2024;loja_fisica;Centro-Oeste;VLR-DF-01;5;calcados;Nunca me decepcionei com a qualidade dos produtos da Valore. Sempre perfeito.;positivo;qualidade do produto
+AV0739;14/11/2023;loja_fisica;Sul;VLR-RS-03;5;vestuario;Comprei durante a promoção e foi um excelente negócio.;positivo;preço
+AV0740;08/01/2024;site;Nordeste;VLR-MA-02;2;vestuario;Fui mal atendida na loja. A vendedora foi grossa e pouco prestativa.;negativo;atendimento
+AV0741;08/03/2023;site;Centro-Oeste;VLR-MT-01;5;vestuario;Ótimo custo-benefício. Produto de qualidade a um preço justo.;positivo;preço
+AV0742;10/09/2024;app;Centro-Oeste;VLR-GO-03;5;calcados;Caiu certinho! A tabela de tamanhos é muito precisa.;positivo;tamanho e caimento
+AV0743;27/10/2024;loja_fisica;Sul;VLR-PR-02;5;vestuario;A qualidade do tecido é incrível, vale cada centavo.;positivo;qualidade do produto
+AV0744;15/07/2024;app;Sul;VLR-SC-01;4;calcados;A moça da loja foi incrível, paciente e me deu ótimas sugestões.;positivo;atendimento
+AV0745;21/03/2024;loja_fisica;Sudeste;VLR-MG-02;3;vestuario;Demorou mais do que o prazo informado no site. Precisei acompanhar pelo SAC.;neutro;atendimento
+AV0746;10/08/2024;loja_fisica;Nordeste;VLR-AL-01;5;acessorios;Ótimo custo-benefício. Produto de qualidade a um preço justo.;positivo;preço
+AV0747;30/06/2023;app;Sul;VLR-PR-02;3;calcados;Entrega lenta. Fiquei uma semana além do prazo esperando.;neutro;entrega
+AV0748;22/10/2024;app;Norte;VLR-AC-01;5;vestuario;Produto de ótima qualidade, superou minhas expectativas!;positivo;qualidade do produto
+AV0749;01/01/2023;site;Nordeste;VLR-SE-01;5;calcados;Equipe super prestativa e simpática. Me senti muito bem atendida.;positivo;atendimento
+AV0750;30/07/2023;app;Sudeste;VLR-MG-02;3;vestuario;Entrega lenta. Fiquei uma semana além do prazo esperando.;neutro;entrega
+AV0751;19/12/2023;site;Sul;VLR-RS-02;5;calcados;Produto premium com um acabamento impecável. Adorei!;positivo;qualidade do produto
+AV0752;05/03/2023;app;Norte;VLR-PA-02;4;acessorios;Entrega dentro do prazo e rastreamento funcionou perfeitamente.;positivo;entrega
+AV0753;16/10/2023;loja_fisica;Norte;VLR-RO-01;4;vestuario;Material excelente, muito bem acabado. Recomendo demais!;positivo;qualidade do produto
+AV0754;20/02/2024;app;Sudeste;VLR-RJ-01;3;calcados;Produto agradável, mas o acabamento poderia ser melhor.;neutro;qualidade do produto
+AV0755;29/01/2024;loja_fisica;Sul;VLR-PR-03;2;vestuario;Troca solicitada e nada resolvido. Atendimento confuso.;negativo;atendimento
+AV0756;15/03/2023;loja_fisica;Nordeste;VLR-BA-03;5;vestuario;Material excelente, muito bem acabado. Recomendo demais!;positivo;qualidade do produto
+AV0757;19/10/2024;app;Sudeste;VLR-SP-03;5;vestuario;Comprei durante a promoção e foi um excelente negócio.;positivo;preço
+AV0758;19/07/2024;site;Sul;VLR-RS-03;4;vestuario;Escolhi pelo guia de medidas e ficou perfeito. Recomendo seguir a tabela.;positivo;tamanho e caimento
+AV0759;31/08/2023;loja_fisica;Centro-Oeste;VLR-GO-01;4;calcados;Produto chegou no prazo e bem embalado. Exatamente como na foto.;positivo;entrega
+AV0760;22/12/2024;app;Sul;VLR-PR-01;1;calcados;Produto horrível. Desfiou logo na primeira semana de uso.;negativo;qualidade do produto
+AV0761;23/06/2024;app;Sul;VLR-PR-03;5;calcados;Produto chegou no prazo e bem embalado. Exatamente como na foto.;positivo;entrega
+AV0762;07/10/2024;loja_fisica;Sul;VLR-PR-02;5;vestuario;Produto premium com um acabamento impecável. Adorei!;positivo;qualidade do produto
+AV0763;12/01/2023;loja_fisica;Sul;VLR-RS-01;1;vestuario;Cancelamento negado mesmo dentro do prazo legal. Absurdo.;negativo;troca e devolução
+AV0764;29/10/2023;site;Sul;VLR-RS-01;4;vestuario;Entrega rápida e produto embalado com cuidado. Aprovadíssimo!;positivo;entrega
+AV0765;31/07/2024;app;Norte;VLR-TO-01;4;calcados;Chegou antes do prazo! Embalagem caprichada e produto em perfeito estado.;positivo;entrega
+AV0766;01/10/2024;app;Sudeste;VLR-ES-01;4;acessorios;A qualidade do tecido é incrível, vale cada centavo.;positivo;qualidade do produto
+AV0767;22/09/2024;loja_fisica;Sudeste;VLR-SP-05;4;vestuario;Recebi em dois dias, muito mais rápido do que esperava. Ótimo serviço!;positivo;atendimento
+AV0768;04/06/2023;loja_fisica;Centro-Oeste;VLR-GO-02;2;acessorios;Ninguém me atendeu adequadamente na loja. Ambiente desorganizado.;negativo;atendimento
+AV0769;24/06/2024;loja_fisica;Nordeste;VLR-PE-02;5;vestuario;A qualidade do tecido é incrível, vale cada centavo.;positivo;qualidade do produto
+AV0770;27/02/2024;site;Norte;VLR-PA-02;4;calcados;Caiu certinho! A tabela de tamanhos é muito precisa.;positivo;tamanho e caimento
+AV0771;20/12/2023;app;Sudeste;VLR-MG-02;2;calcados;Entrega muito atrasada. Fui informada do atraso somente depois de reclamar.;negativo;entrega
+AV0772;29/06/2024;loja_fisica;Norte;VLR-RR-01;4;vestuario;A moça da loja foi incrível, paciente e me deu ótimas sugestões.;positivo;atendimento
+AV0773;04/04/2024;app;Sudeste;VLR-RJ-02;2;vestuario;SAC demorou 4 dias para me responder e não resolveu meu problema.;negativo;atendimento
+AV0774;28/06/2024;site;Centro-Oeste;VLR-GO-01;5;vestuario;Produto chegou no prazo e bem embalado. Exatamente como na foto.;positivo;qualidade do produto
+AV0775;11/04/2023;site;Sul;VLR-RS-01;5;vestuario;Entrega dentro do prazo e rastreamento funcionou perfeitamente.;positivo;entrega
+AV0776;25/08/2024;app;Sudeste;VLR-SP-04;4;calcados;Fui muito bem atendida. A equipe conhece bem os produtos.;positivo;atendimento
+AV0777;19/11/2024;app;Centro-Oeste;VLR-GO-03;5;vestuario;Produto de ótima qualidade, superou minhas expectativas!;positivo;qualidade do produto
+AV0778;18/10/2023;loja_fisica;Norte;VLR-RR-01;4;vestuario;Entrega rápida e produto embalado com cuidado. Aprovadíssimo!;positivo;entrega
+AV0779;15/10/2024;loja_fisica;Norte;VLR-AM-01;2;acessorios;Meu pedido chegou com 12 dias de atraso e sem nenhuma comunicação.;negativo;entrega
+AV0780;13/12/2024;site;Norte;VLR-PA-02;2;acessorios;A qualidade não condiz com o valor cobrado. Produto muito frágil.;negativo;qualidade do produto
+AV0781;11/10/2023;app;Centro-Oeste;VLR-DF-01;5;vestuario;Preço competitivo para a qualidade que entrega. Muito satisfeita!;positivo;preço
+AV0782;07/12/2023;loja_fisica;Centro-Oeste;VLR-GO-01;1;vestuario;Estou sem o produto e sem devolução do dinheiro. Absurdo.;negativo;troca e devolução
+AV0783;02/07/2023;loja_fisica;Centro-Oeste;VLR-GO-02;1;calcados;Tentei cancelar o pedido e fui completamente ignorada. Péssimo.;negativo;atendimento
+AV0784;28/03/2024;app;Nordeste;VLR-MA-02;3;calcados;O produto chegou, mas demorou quase o dobro do prazo previsto.;negativo;entrega
+AV0785;20/01/2023;loja_fisica;Norte;VLR-TO-01;4;calcados;Caiu certinho! A tabela de tamanhos é muito precisa.;positivo;tamanho e caimento
+AV0786;04/12/2023;site;Norte;VLR-TO-01;5;vestuario;Ótimo custo-benefício. Produto de qualidade a um preço justo.;positivo;preço
+AV0787;13/03/2023;app;Sul;VLR-RS-03;5;vestuario;Caiu certinho! A tabela de tamanhos é muito precisa.;positivo;tamanho e caimento
+AV0788;02/07/2024;loja_fisica;Norte;VLR-RR-01;5;vestuario;Recebi em dois dias, muito mais rápido do que esperava. Ótimo serviço!;positivo;entrega
+AV0789;01/07/2024;loja_fisica;Centro-Oeste;VLR-DF-01;5;vestuario;Chegou antes do prazo! Embalagem caprichada e produto em perfeito estado.;positivo;qualidade do produto
+AV0790;10/02/2023;site;Sudeste;VLR-SP-04;3;vestuario;Comprei esperando mais. Não é ruim, mas também não encantou.;neutro;qualidade do produto
+AV0791;03/01/2024;loja_fisica;Nordeste;VLR-BA-02;4;calcados;Caiu certinho! A tabela de tamanhos é muito precisa.;positivo;tamanho e caimento
+AV0792;30/08/2024;app;Sudeste;VLR-SP-04;2;vestuario;Botão saiu na primeira semana. Acabamento muito ruim.;negativo;qualidade do produto
+AV0793;05/04/2024;loja_fisica;Sudeste;VLR-SP-05;4;vestuario;Produto de ótima qualidade, superou minhas expectativas!;positivo;qualidade do produto
+AV0794;05/08/2023;loja_fisica;Centro-Oeste;VLR-GO-01;5;vestuario;Escolhi pelo guia de medidas e ficou perfeito. Recomendo seguir a tabela.;positivo;tamanho e caimento
+AV0795;25/05/2023;loja_fisica;Sul;VLR-PR-02;4;vestuario;Tamanho exatamente como descrito. Ficou ótimo.;positivo;tamanho e caimento
+AV0796;26/10/2024;app;Norte;VLR-MA-01;5;vestuario;Atendimento nota 10! A vendedora foi muito atenciosa e me ajudou a escolher o tamanho certo.;positivo;atendimento
+AV0797;12/04/2024;app;Nordeste;VLR-PB-01;5;calcados;Caiu certinho! A tabela de tamanhos é muito precisa.;positivo;tamanho e caimento
+AV0798;22/09/2024;loja_fisica;Sul;VLR-PR-02;5;vestuario;Atendimento nota 10! A vendedora foi muito atenciosa e me ajudou a escolher o tamanho certo.;positivo;atendimento
+AV0799;29/11/2023;loja_fisica;Nordeste;VLR-AL-01;5;calcados;Produto premium com um acabamento impecável. Adorei!;positivo;qualidade do produto
+AV0800;30/08/2024;loja_fisica;Sul;VLR-SC-01;5;calcados;Atendimento excelente na loja. Voltarei com certeza!;positivo;atendimento
+AV0801;14/01/2024;loja_fisica;Norte;VLR-AC-01;2;vestuario;Botão saiu na primeira semana. Acabamento muito ruim.;negativo;qualidade do produto
+AV0802;09/10/2024;site;Nordeste;VLR-BA-02;1;calcados;Atendimento horrível. Esperei 1 hora na fila sem nenhuma atenção.;negativo;atendimento
+AV0803;02/04/2023;loja_fisica;Nordeste;VLR-BA-01;4;vestuario;Produto chegou no prazo e bem embalado. Exatamente como na foto.;positivo;entrega
+AV0804;06/04/2024;app;Sudeste;VLR-ES-01;2;vestuario;Fui mal atendida na loja. A vendedora foi grossa e pouco prestativa.;negativo;atendimento
+AV0805;18/09/2024;app;Nordeste;VLR-BA-03;1;calcados;Estou sem o produto e sem devolução do dinheiro. Absurdo.;negativo;troca e devolução
+AV0806;26/06/2024;loja_fisica;Centro-Oeste;VLR-GO-02;4;vestuario;Produto premium com um acabamento impecável. Adorei!;positivo;qualidade do produto
+AV0807;03/10/2024;site;Centro-Oeste;VLR-MS-01;5;vestuario;Atendimento excelente na loja. Voltarei com certeza!;positivo;atendimento
+AV0808;13/06/2023;loja_fisica;Norte;VLR-RR-01;5;vestuario;Produto de ótima qualidade, superou minhas expectativas!;positivo;qualidade do produto
+AV0809;09/04/2024;loja_fisica;Centro-Oeste;VLR-GO-03;4;calcados;Produto de ótima qualidade, superou minhas expectativas!;positivo;qualidade do produto
+AV0810;29/04/2023;site;Norte;VLR-MA-01;2;vestuario;Prazo descumprido e o SAC não conseguiu me dar informações precisas.;negativo;entrega
+AV0811;30/11/2023;app;Sudeste;VLR-SP-04;3;calcados;Produto ok, mas achei o preço um pouco salgado para o que é.;neutro;preço
+AV0812;20/01/2024;loja_fisica;Centro-Oeste;VLR-MT-01;3;acessorios;Produto ok, mas achei o preço um pouco salgado para o que é.;neutro;preço
+AV0813;16/09/2024;app;Sudeste;VLR-RJ-02;1;vestuario;Tentei cancelar o pedido e fui completamente ignorada. Péssimo.;negativo;atendimento
+AV0814;04/10/2023;loja_fisica;Sudeste;VLR-SP-04;4;calcados;Atendimento excelente na loja. Voltarei com certeza!;positivo;atendimento
+AV0815;21/04/2024;loja_fisica;Nordeste;VLR-CE-02;4;vestuario;Escolhi pelo guia de medidas e ficou perfeito. Recomendo seguir a tabela.;positivo;tamanho e caimento
+AV0816;15/10/2024;site;Nordeste;VLR-CE-02;2;calcados;O tecido desbotou com poucos usos. Não esperava isso pelo preço pago.;negativo;qualidade do produto
+AV0817;18/04/2024;loja_fisica;Norte;VLR-AM-01;4;calcados;Chegou antes do prazo! Embalagem caprichada e produto em perfeito estado.;positivo;entrega
+AV0818;16/08/2023;app;Sudeste;VLR-RJ-01;3;vestuario;Produto ok, mas achei o preço um pouco salgado para o que é.;neutro;preço
+AV0819;31/05/2024;site;Sudeste;VLR-RJ-03;1;calcados;Comprei online e o produto simplesmente desapareceu. Rastreamento parou.;negativo;entrega
+AV0820;04/09/2023;loja_fisica;Sul;VLR-PR-02;5;vestuario;Produto premium com um acabamento impecável. Adorei!;positivo;qualidade do produto
+AV0821;30/10/2023;app;Norte;VLR-AM-01;3;vestuario;Produto ok, mas achei o preço um pouco salgado para o que é.;neutro;preço
+AV0822;20/08/2024;app;Norte;VLR-RR-01;3;acessorios;O caimento não ficou como na foto, mas o produto tem boa qualidade de material.;neutro;tamanho e caimento
+AV0823;15/01/2024;site;Sudeste;VLR-RJ-02;5;vestuario;Ótimo custo-benefício. Produto de qualidade a um preço justo.;positivo;preço
+AV0824;12/03/2024;loja_fisica;Norte;VLR-AP-01;5;vestuario;Entrega dentro do prazo e rastreamento funcionou perfeitamente.;positivo;entrega
+AV0825;10/12/2023;app;Sul;VLR-PR-02;2;calcados;Não recebi no prazo e o rastreamento ficou parado por dias.;negativo;entrega
+AV0826;11/02/2023;site;Centro-Oeste;VLR-GO-03;2;vestuario;Já enviei o produto para troca e ainda não tenho previsão de retorno.;negativo;troca e devolução
+AV0827;29/07/2023;app;Nordeste;VLR-RN-01;5;calcados;Atendimento excelente na loja. Voltarei com certeza!;positivo;atendimento
+AV0828;17/08/2024;app;Nordeste;VLR-AL-01;4;acessorios;Equipe super prestativa e simpática. Me senti muito bem atendida.;positivo;atendimento
+AV0829;25/02/2023;loja_fisica;Centro-Oeste;VLR-DF-01;3;vestuario;Esperava um tamanho M padrão mas veio maior do que o habitual.;neutro;tamanho e caimento
+AV0830;28/06/2024;app;Centro-Oeste;VLR-GO-01;4;vestuario;Produto chegou no prazo e bem embalado. Exatamente como na foto.;positivo;entrega
+AV0831;13/04/2024;loja_fisica;Sul;VLR-PR-02;5;vestuario;Produto de ótima qualidade, superou minhas expectativas!;positivo;qualidade do produto
+AV0832;10/10/2023;site;Sudeste;VLR-SP-02;3;vestuario;Tive que trocar de tamanho. A numeração parece inconsistente entre os modelos.;neutro;tamanho e caimento
+AV0833;02/03/2024;loja_fisica;Sudeste;VLR-ES-01;3;vestuario;Produto mediano. Para o preço cobrado, esperava mais acabamento.;neutro;qualidade do produto
+AV0834;06/03/2023;loja_fisica;Centro-Oeste;VLR-GO-01;5;vestuario;Material excelente, muito bem acabado. Recomendo demais!;positivo;qualidade do produto
+AV0835;01/12/2023;app;Sul;VLR-RS-01;3;calcados;Comprei esperando mais. Não é ruim, mas também não encantou.;neutro;qualidade do produto
+AV0836;10/11/2023;site;Sul;VLR-SC-02;4;calcados;Atendimento excelente na loja. Voltarei com certeza!;positivo;atendimento
+AV0837;01/06/2023;app;Nordeste;VLR-SE-01;5;calcados;Recebi em dois dias, muito mais rápido do que esperava. Ótimo serviço!;positivo;entrega
+AV0838;20/10/2023;site;Sudeste;VLR-SP-03;4;calcados;Equipe super prestativa e simpática. Me senti muito bem atendida.;positivo;atendimento
+AV0839;27/03/2024;loja_fisica;Nordeste;VLR-CE-03;2;calcados;Já enviei o produto para troca e ainda não tenho previsão de retorno.;negativo;troca e devolução
+AV0840;19/12/2023;loja_fisica;Nordeste;VLR-PI-01;5;vestuario;Atendimento excelente na loja. Voltarei com certeza!;positivo;atendimento
+AV0841;26/01/2023;app;Sudeste;VLR-SP-05;2;vestuario;Ninguém me atendeu adequadamente na loja. Ambiente desorganizado.;negativo;atendimento
+AV0842;13/07/2024;site;Nordeste;VLR-BA-03;5;vestuario;Escolhi pelo guia de medidas e ficou perfeito. Recomendo seguir a tabela.;positivo;tamanho e caimento
+AV0843;01/08/2024;app;Centro-Oeste;VLR-MS-01;3;calcados;Produto agradável, mas o acabamento poderia ser melhor.;neutro;qualidade do produto
+AV0844;30/04/2023;app;Norte;VLR-PA-02;5;calcados;Chegou antes do prazo! Embalagem caprichada e produto em perfeito estado.;positivo;entrega
+AV0845;26/02/2023;app;Sudeste;VLR-RJ-01;2;vestuario;O tecido desbotou com poucos usos. Não esperava isso pelo preço pago.;negativo;qualidade do produto
+AV0846;31/03/2023;loja_fisica;Centro-Oeste;VLR-MT-01;2;calcados;Fui mal atendida na loja. A vendedora foi grossa e pouco prestativa.;negativo;atendimento
+AV0847;05/01/2024;loja_fisica;Sudeste;VLR-SP-01;4;acessorios;Caiu certinho! A tabela de tamanhos é muito precisa.;positivo;tamanho e caimento
+AV0848;12/11/2023;loja_fisica;Sudeste;VLR-SP-05;4;vestuario;Tamanho exatamente como descrito. Ficou ótimo.;positivo;tamanho e caimento
+AV0849;23/10/2023;loja_fisica;Norte;VLR-AC-01;5;calcados;A moça da loja foi incrível, paciente e me deu ótimas sugestões.;positivo;atendimento
+AV0850;07/11/2023;loja_fisica;Sudeste;VLR-SP-02;4;vestuario;Tamanho exatamente como descrito. Ficou ótimo.;positivo;tamanho e caimento
+AV0851;24/02/2024;loja_fisica;Centro-Oeste;VLR-MT-01;5;vestuario;Produto chegou no prazo e bem embalado. Exatamente como na foto.;positivo;entrega
+AV0852;24/07/2023;app;Nordeste;VLR-SE-01;5;acessorios;A moça da loja foi incrível, paciente e me deu ótimas sugestões.;positivo;atendimento
+AV0853;08/11/2023;app;Centro-Oeste;VLR-GO-03;1;calcados;Não consegui cancelar o pedido. O SAC é inoperante.;negativo;atendimento
+AV0854;17/10/2024;loja_fisica;Sudeste;VLR-SP-03;5;vestuario;Ótimo custo-benefício. Produto de qualidade a um preço justo.;positivo;preço
+AV0855;30/01/2023;loja_fisica;Centro-Oeste;VLR-DF-01;4;calcados;A qualidade do tecido é incrível, vale cada centavo.;positivo;qualidade do produto
+AV0856;02/08/2024;site;Sudeste;VLR-RJ-01;1;calcados;Cancelamento negado mesmo dentro do prazo legal. Absurdo.;negativo;troca e devolução
+AV0857;12/08/2024;site;Sudeste;VLR-RJ-01;5;vestuario;A qualidade do tecido é incrível, vale cada centavo.;positivo;qualidade do produto
+AV0858;19/05/2023;app;Nordeste;VLR-PE-02;2;acessorios;O processo de troca é muito lento e burocrático.;negativo;troca e devolução
+AV0859;26/10/2023;loja_fisica;Norte;VLR-RO-01;4;vestuario;Produto premium com um acabamento impecável. Adorei!;positivo;qualidade do produto
+AV0860;21/06/2023;site;Nordeste;VLR-BA-02;2;calcados;Já enviei o produto para troca e ainda não tenho previsão de retorno.;negativo;troca e devolução
+AV0861;16/08/2024;loja_fisica;Centro-Oeste;VLR-GO-03;5;vestuario;Entrega rápida e produto embalado com cuidado. Aprovadíssimo!;positivo;entrega
+AV0862;16/06/2023;loja_fisica;Norte;VLR-RR-01;3;vestuario;Tive que trocar de tamanho. A numeração parece inconsistente entre os modelos.;neutro;tamanho e caimento
+AV0863;20/09/2024;app;Nordeste;VLR-SE-01;5;acessorios;Tamanho exatamente como descrito. Ficou ótimo.;positivo;tamanho e caimento
+AV0864;20/03/2023;app;Sul;VLR-RS-02;5;vestuario;Material excelente, muito bem acabado. Recomendo demais!;positivo;qualidade do produto
+AV0865;28/03/2024;app;Norte;VLR-RO-01;3;vestuario;O produto chegou, mas demorou quase o dobro do prazo previsto.;neutro;entrega
+AV0866;11/12/2024;loja_fisica;Centro-Oeste;VLR-GO-02;5;vestuario;Equipe super prestativa e simpática. Me senti muito bem atendida.;positivo;atendimento
+AV0867;25/04/2023;loja_fisica;Centro-Oeste;VLR-GO-01;2;vestuario;Meu pedido chegou com 12 dias de atraso e sem nenhuma comunicação.;negativo;entrega
+AV0868;06/11/2024;site;Sudeste;VLR-SP-02;1;vestuario;Fui ofendida por uma funcionária na loja. Inadmissível.;negativo;atendimento
+AV0869;11/01/2023;loja_fisica;Sudeste;VLR-SP-02;3;vestuario;O produto é bonito mas o tamanho ficou um pouco diferente do que esperava. A modelagem é um pouco larga.;neutro;tamanho e caimento
+AV0870;30/01/2023;loja_fisica;Sul;VLR-PR-03;5;calcados;Material excelente, muito bem acabado. Recomendo demais!;positivo;qualidade do produto
+AV0871;19/09/2024;site;Centro-Oeste;VLR-GO-02;3;acessorios;Produto ok, mas achei o preço um pouco salgado para o que é.;neutro;preço
+AV0872;16/07/2023;site;Norte;VLR-AP-01;5;vestuario;Entrega rápida e produto embalado com cuidado. Aprovadíssimo!;positivo;entrega
+AV0873;25/12/2024;loja_fisica;Sul;VLR-SC-01;5;acessorios;Preço competitivo para a qualidade que entrega. Muito satisfeita!;positivo;preço
+AV0874;30/12/2023;loja_fisica;Sul;VLR-PR-02;5;vestuario;Comprei durante a promoção e foi um excelente negócio.;positivo;preço
+AV0875;07/05/2023;app;Nordeste;VLR-SE-01;3;acessorios;Qualidade ok mas não é tão boa quanto parece nas fotos.;neutro;qualidade do produto
+AV0876;11/02/2023;loja_fisica;Sul;VLR-SC-02;5;calcados;A qualidade do tecido é incrível, vale cada centavo.;positivo;qualidade do produto
+AV0877;04/12/2024;loja_fisica;Sudeste;VLR-MG-02;3;calcados;Qualidade ok mas não é tão boa quanto parece nas fotos.;neutro;qualidade do produto
+AV0878;13/03/2023;loja_fisica;Sul;VLR-RS-02;5;vestuario;Preço competitivo para a qualidade que entrega. Muito satisfeita!;positivo;preço
+AV0879;24/03/2024;loja_fisica;Nordeste;VLR-PI-01;5;vestuario;Tamanho exatamente como descrito. Ficou ótimo.;positivo;tamanho e caimento
+AV0880;22/06/2023;loja_fisica;Norte;VLR-PA-01;4;calcados;A qualidade do tecido é incrível, vale cada centavo.;positivo;qualidade do produto
+AV0881;10/03/2024;loja_fisica;Nordeste;VLR-PE-01;4;vestuario;Escolhi pelo guia de medidas e ficou perfeito. Recomendo seguir a tabela.;positivo;tamanho e caimento
+AV0882;13/11/2024;app;Sul;VLR-RS-02;5;vestuario;Escolhi pelo guia de medidas e ficou perfeito. Recomendo seguir a tabela.;positivo;tamanho e caimento
+AV0883;14/09/2023;app;Sudeste;VLR-RJ-03;2;vestuario;Ninguém me atendeu adequadamente na loja. Ambiente desorganizado.;negativo;atendimento
+AV0884;11/03/2023;app;Nordeste;VLR-BA-02;2;calcados;SAC demorou 4 dias para me responder e não resolveu meu problema.;negativo;atendimento
+AV0885;28/09/2024;site;Norte;VLR-RO-01;3;vestuario;O produto é bonito mas o tamanho ficou um pouco diferente do que esperava. A modelagem é um pouco larga.;neutro;tamanho e caimento
+AV0886;24/05/2024;site;Sul;VLR-SC-01;5;vestuario;Preço competitivo para a qualidade que entrega. Muito satisfeita!;positivo;preço
+AV0887;02/02/2023;loja_fisica;Sul;VLR-PR-01;5;acessorios;Ótimo custo-benefício. Produto de qualidade a um preço justo.;positivo;preço
+AV0888;03/02/2023;app;Sudeste;VLR-RJ-03;5;vestuario;Fui muito bem atendida. A equipe conhece bem os produtos.;positivo;atendimento
+AV0889;03/02/2024;site;Centro-Oeste;VLR-MT-01;2;vestuario;Fui mal atendida na loja. A vendedora foi grossa e pouco prestativa.;negativo;atendimento
+AV0890;10/06/2023;app;Sul;VLR-RS-03;4;vestuario;Nunca me decepcionei com a qualidade dos produtos da Valore. Sempre perfeito.;positivo;qualidade do produto
+AV0891;19/10/2023;app;Centro-Oeste;VLR-MS-01;5;calcados;Chegou antes do prazo! Embalagem caprichada e produto em perfeito estado.;positivo;entrega
+AV0892;20/08/2024;app;Norte;VLR-RO-01;2;vestuario;Entrega muito atrasada. Fui informada do atraso somente depois de reclamar.;negativo;entrega
+AV0893;27/02/2023;loja_fisica;Sudeste;VLR-RJ-01;3;vestuario;Gostei do produto mas esperava mais pelo valor que paguei.;neutro;preço
+AV0894;09/11/2023;app;Nordeste;VLR-AL-01;4;vestuario;A qualidade do tecido é incrível, vale cada centavo.;positivo;qualidade do produto
+AV0895;08/03/2024;loja_fisica;Nordeste;VLR-PE-02;3;calcados;Produto agradável, mas o acabamento poderia ser melhor.;neutro;qualidade do produto
+AV0896;04/02/2024;app;Norte;VLR-RO-01;4;vestuario;Entrega dentro do prazo e rastreamento funcionou perfeitamente.;positivo;entrega
+AV0897;29/05/2024;site;Norte;VLR-AM-01;2;vestuario;O processo de troca é muito lento e burocrático.;negativo;troca e devolução
+AV0898;19/03/2023;loja_fisica;Sul;VLR-SC-01;5;vestuario;Caiu certinho! A tabela de tamanhos é muito precisa.;positivo;tamanho e caimento
+AV0899;20/08/2023;loja_fisica;Centro-Oeste;VLR-MS-01;3;vestuario;A numeração do calçado não bateu exatamente. Meu 38 usual ficou apertado.;neutro;tamanho e caimento
+AV0900;03/08/2023;app;Norte;VLR-AP-01;3;vestuario;O produto chegou, mas demorou quase o dobro do prazo previsto.;neutro;entrega
+AV0901;24/07/2023;app;Centro-Oeste;VLR-DF-01;3;vestuario;Produto agradável, mas o acabamento poderia ser melhor.;neutro;qualidade do produto
+AV0902;20/01/2023;app;Centro-Oeste;VLR-MS-01;4;vestuario;Fui muito bem atendida. A equipe conhece bem os produtos.;positivo;atendimento
+AV0903;15/10/2024;loja_fisica;Sudeste;VLR-RJ-03;5;vestuario;Tamanho exatamente como descrito. Ficou ótimo.;positivo;tamanho e caimento
+AV0904;09/01/2024;site;Sudeste;VLR-SP-01;5;vestuario;Vale muito o preço. Produto durável e bonito.;positivo;preço
+AV0905;25/02/2024;loja_fisica;Nordeste;VLR-CE-02;5;calcados;Chegou antes do prazo! Embalagem caprichada e produto em perfeito estado.;positivo;entrega
+AV0906;20/09/2023;site;Nordeste;VLR-CE-02;3;calcados;Produto mediano. Para o preço cobrado, esperava mais acabamento.;neutro;qualidade do produto
+AV0907;14/11/2023;loja_fisica;Nordeste;VLR-CE-01;3;calcados;Produto agradável, mas o acabamento poderia ser melhor.;neutro;qualidade do produto
+AV0908;07/10/2023;site;Sul;VLR-PR-01;3;vestuario;Produto ok, mas achei o preço um pouco salgado para o que é.;neutro;preço
+AV0909;13/02/2023;site;Centro-Oeste;VLR-MS-01;3;vestuario;Qualidade ok mas não é tão boa quanto parece nas fotos.;neutro;qualidade do produto
+AV0910;21/02/2024;site;Norte;VLR-TO-01;1;acessorios;Produto horrível. Desfiou logo na primeira semana de uso.;negativo;qualidade do produto
+AV0911;07/08/2024;site;Sudeste;VLR-SP-03;5;vestuario;Caiu certinho! A tabela de tamanhos é muito precisa.;positivo;tamanho e caimento
+AV0912;03/04/2023;app;Sul;VLR-SC-02;4;vestuario;Fui muito bem atendida. A equipe conhece bem os produtos.;positivo;atendimento
+AV0913;30/08/2023;site;Norte;VLR-AC-01;3;calcados;Qualidade ok mas não é tão boa quanto parece nas fotos.;neutro;qualidade do produto
+AV0914;18/09/2023;loja_fisica;Nordeste;VLR-CE-02;3;vestuario;O caimento não ficou como na foto, mas o produto tem boa qualidade de material.;neutro;tamanho e caimento
+AV0915;01/05/2024;loja_fisica;Sul;VLR-RS-01;5;vestuario;Atendimento excelente na loja. Voltarei com certeza!;positivo;atendimento
+AV0916;22/10/2024;loja_fisica;Nordeste;VLR-PB-01;5;vestuario;Caiu certinho! A tabela de tamanhos é muito precisa.;positivo;tamanho e caimento
+AV0917;29/01/2024;app;Norte;VLR-AM-01;5;vestuario;Recebi em dois dias, muito mais rápido do que esperava. Ótimo serviço!;positivo;entrega
+AV0918;07/02/2024;app;Norte;VLR-RR-01;2;vestuario;Já enviei o produto para troca e ainda não tenho previsão de retorno.;negativo;troca e devolução
+AV0919;14/06/2023;site;Norte;VLR-TO-01;5;vestuario;Preço competitivo para a qualidade que entrega. Muito satisfeita!;positivo;preço
+AV0920;18/05/2024;site;Sudeste;VLR-SP-02;3;calcados;Comprei esperando mais. Não é ruim, mas também não encantou.;neutro;qualidade do produto
+AV0921;13/04/2023;site;Sudeste;VLR-RJ-02;3;acessorios;Qualidade razoável para o preço. Não é ruim, mas já vi melhor.;neutro;qualidade do produto
+AV0922;29/01/2023;loja_fisica;Sul;VLR-RS-01;4;vestuario;Material excelente, muito bem acabado. Recomendo demais!;positivo;qualidade do produto
+AV0923;09/11/2023;site;Sudeste;VLR-RJ-02;2;vestuario;Solicitei a troca há 15 dias e ainda não recebi o produto substituto.;negativo;troca e devolução
+AV0924;03/12/2024;loja_fisica;Norte;VLR-PA-02;4;calcados;Escolhi pelo guia de medidas e ficou perfeito. Recomendo seguir a tabela.;positivo;tamanho e caimento
+AV0925;30/08/2024;app;Sudeste;VLR-SP-05;5;vestuario;Recebi em dois dias, muito mais rápido do que esperava. Ótimo serviço!;positivo;entrega
+AV0926;07/08/2024;loja_fisica;Nordeste;VLR-PE-01;4;acessorios;Atendimento nota 10! A vendedora foi muito atenciosa e me ajudou a escolher o tamanho certo.;positivo;atendimento
+AV0927;18/04/2024;site;Norte;VLR-AM-01;4;acessorios;Atendimento excelente na loja. Voltarei com certeza!;positivo;atendimento
+AV0928;02/04/2023;loja_fisica;Nordeste;VLR-MA-02;4;vestuario;Entrega rápida e produto embalado com cuidado. Aprovadíssimo!;positivo;entrega
+AV0929;09/04/2024;loja_fisica;Sul;VLR-RS-02;5;calcados;Ótimo custo-benefício. Produto de qualidade a um preço justo.;positivo;preço
+AV0930;30/09/2023;app;Nordeste;VLR-PB-01;2;calcados;Troca solicitada e nada resolvido. Atendimento confuso.;negativo;troca e devolução
+AV0931;17/10/2023;loja_fisica;Sudeste;VLR-MG-02;5;vestuario;A moça da loja foi incrível, paciente e me deu ótimas sugestões.;positivo;atendimento
+AV0932;30/08/2023;loja_fisica;Nordeste;VLR-CE-02;2;acessorios;Fui mal atendida na loja. A vendedora foi grossa e pouco prestativa.;negativo;atendimento
+AV0933;17/05/2023;app;Centro-Oeste;VLR-GO-01;4;vestuario;Produto chegou no prazo e bem embalado. Exatamente como na foto.;positivo;entrega
+AV0934;16/03/2023;app;Nordeste;VLR-AL-01;5;calcados;Produto premium com um acabamento impecável. Adorei!;positivo;qualidade do produto
+AV0935;12/09/2024;loja_fisica;Norte;VLR-RR-01;5;acessorios;Tamanho exatamente como descrito. Ficou ótimo.;positivo;tamanho e caimento
+AV0936;09/02/2024;loja_fisica;Norte;VLR-AC-01;4;vestuario;Entrega rápida e produto embalado com cuidado. Aprovadíssimo!;positivo;entrega
+AV0937;14/12/2023;loja_fisica;Sul;VLR-PR-03;2;vestuario;Fui mal atendida na loja. A vendedora foi grossa e pouco prestativa.;negativo;atendimento
+AV0938;17/11/2023;loja_fisica;Norte;VLR-PA-02;4;vestuario;Material excelente, muito bem acabado. Recomendo demais!;positivo;qualidade do produto
+AV0939;17/10/2023;site;Sudeste;VLR-RJ-01;5;acessorios;Entrega dentro do prazo e rastreamento funcionou perfeitamente.;positivo;entrega
+AV0940;18/05/2024;app;Centro-Oeste;VLR-GO-02;3;vestuario;Produto mediano. Para o preço cobrado, esperava mais acabamento.;neutro;qualidade do produto
+AV0941;24/09/2023;loja_fisica;Norte;VLR-PA-02;1;vestuario;Pedi um vestido azul e recebi uma calça bege. Incompetência.;negativo;entrega
+AV0942;01/01/2024;loja_fisica;Sudeste;VLR-RJ-03;5;vestuario;Escolhi pelo guia de medidas e ficou perfeito. Recomendo seguir a tabela.;positivo;tamanho e caimento
+AV0943;06/04/2023;app;Sudeste;VLR-SP-03;5;vestuario;Atendimento excelente na loja. Voltarei com certeza!;positivo;atendimento
+AV0944;10/11/2024;site;Nordeste;VLR-PB-01;5;vestuario;Caiu certinho! A tabela de tamanhos é muito precisa.;positivo;tamanho e caimento
+AV0945;20/03/2023;site;Sul;VLR-PR-03;1;vestuario;Me enviaram o produto de outra pessoa. Uma bagunça total.;negativo;entrega
+AV0946;27/08/2024;site;Norte;VLR-PA-01;1;vestuario;Estou sem o produto e sem devolução do dinheiro. Absurdo.;negativo;troca e devolução
+AV0947;09/04/2024;loja_fisica;Nordeste;VLR-AL-01;4;calcados;Entrega dentro do prazo e rastreamento funcionou perfeitamente.;positivo;entrega
+AV0948;05/08/2024;loja_fisica;Norte;VLR-RR-01;1;vestuario;Recebi um produto completamente diferente do que pedi. Cor, tamanho e modelo errados.;negativo;entrega
+AV0949;14/07/2024;site;Norte;VLR-MA-01;3;calcados;Qualidade ok mas não é tão boa quanto parece nas fotos.;neutro;qualidade do produto
+AV0950;02/08/2023;loja_fisica;Sudeste;VLR-RJ-02;3;vestuario;Produto mediano. Para o preço cobrado, esperava mais acabamento.;neutro;qualidade do produto
+AV0951;02/11/2023;loja_fisica;Sudeste;VLR-ES-01;5;vestuario;Comprei durante a promoção e foi um excelente negócio.;positivo;preço
+AV0952;12/01/2024;site;Centro-Oeste;VLR-GO-03;4;calcados;A moça da loja foi incrível, paciente e me deu ótimas sugestões.;positivo;atendimento
+AV0953;03/04/2023;site;Sudeste;VLR-MG-02;4;calcados;Escolhi pelo guia de medidas e ficou perfeito. Recomendo seguir a tabela.;positivo;tamanho e caimento
+AV0954;16/12/2023;loja_fisica;Sul;VLR-PR-02;5;vestuario;Vale muito o preço. Produto durável e bonito.;positivo;qualidade do produto
+AV0955;25/10/2023;site;Nordeste;VLR-PI-01;4;vestuario;Escolhi pelo guia de medidas e ficou perfeito. Recomendo seguir a tabela.;positivo;tamanho e caimento
+AV0956;01/12/2024;site;Norte;VLR-PA-02;4;acessorios;Entrega rápida e produto embalado com cuidado. Aprovadíssimo!;positivo;entrega
+AV0957;09/06/2024;loja_fisica;Sul;VLR-PR-02;4;acessorios;Produto premium com um acabamento impecável. Adorei!;positivo;qualidade do produto
+AV0958;30/12/2023;loja_fisica;Sudeste;VLR-MG-02;4;calcados;Entrega dentro do prazo e rastreamento funcionou perfeitamente.;positivo;entrega
+AV0959;06/07/2023;site;Norte;VLR-RR-01;1;vestuario;Tentei cancelar o pedido e fui completamente ignorada. Péssimo.;negativo;atendimento
+AV0960;10/04/2024;loja_fisica;Norte;VLR-RO-01;5;calcados;Preço competitivo para a qualidade que entrega. Muito satisfeita!;positivo;preço
+AV0961;22/03/2023;site;Centro-Oeste;VLR-GO-02;5;vestuario;Escolhi pelo guia de medidas e ficou perfeito. Recomendo seguir a tabela.;positivo;tamanho e caimento
+AV0962;25/06/2023;loja_fisica;Norte;VLR-AC-01;1;vestuario;Cancelamento negado mesmo dentro do prazo legal. Absurdo.;negativo;atendimento
+AV0963;07/11/2023;site;Sudeste;VLR-MG-02;5;calcados;Tamanho exatamente como descrito. Ficou ótimo.;positivo;tamanho e caimento
+AV0964;06/11/2023;app;Centro-Oeste;VLR-DF-01;5;vestuario;Material excelente, muito bem acabado. Recomendo demais!;positivo;qualidade do produto
+AV0965;12/07/2023;loja_fisica;Nordeste;VLR-BA-01;2;calcados;Prazo descumprido e o SAC não conseguiu me dar informações precisas.;negativo;entrega
+AV0966;05/07/2024;app;Sudeste;VLR-RJ-02;4;calcados;Atendimento nota 10! A vendedora foi muito atenciosa e me ajudou a escolher o tamanho certo.;positivo;atendimento
+AV0967;20/06/2023;site;Centro-Oeste;VLR-MT-01;2;vestuario;Botão saiu na primeira semana. Acabamento muito ruim.;negativo;qualidade do produto
+AV0968;29/10/2023;app;Sudeste;VLR-MG-02;5;vestuario;Escolhi pelo guia de medidas e ficou perfeito. Recomendo seguir a tabela.;positivo;tamanho e caimento
+AV0969;22/05/2024;loja_fisica;Norte;VLR-AC-01;2;acessorios;Solicitei a troca há 15 dias e ainda não recebi o produto substituto.;negativo;troca e devolução
+AV0970;14/05/2024;loja_fisica;Sudeste;VLR-MG-02;4;acessorios;Atendimento nota 10! A vendedora foi muito atenciosa e me ajudou a escolher o tamanho certo.;positivo;atendimento
+AV0971;25/10/2024;loja_fisica;Sul;VLR-PR-02;4;vestuario;Escolhi pelo guia de medidas e ficou perfeito. Recomendo seguir a tabela.;positivo;tamanho e caimento
+AV0972;22/03/2024;app;Norte;VLR-RO-01;5;vestuario;Material excelente, muito bem acabado. Recomendo demais!;positivo;qualidade do produto
+AV0973;13/08/2023;app;Centro-Oeste;VLR-MT-01;4;vestuario;Entrega dentro do prazo e rastreamento funcionou perfeitamente.;positivo;entrega
+AV0974;20/11/2024;loja_fisica;Sudeste;VLR-RJ-02;3;acessorios;Entrega lenta. Fiquei uma semana além do prazo esperando.;negativo;entrega
+AV0975;09/05/2024;app;Nordeste;VLR-AL-01;3;vestuario;Gostei do produto mas esperava mais pelo valor que paguei.;neutro;preço
+AV0976;20/05/2024;loja_fisica;Nordeste;VLR-SE-01;4;vestuario;Entrega rápida e produto embalado com cuidado. Aprovadíssimo!;positivo;entrega
+AV0977;01/01/2024;app;Nordeste;VLR-CE-03;5;acessorios;Equipe super prestativa e simpática. Me senti muito bem atendida.;positivo;atendimento
+AV0978;21/08/2023;loja_fisica;Sul;VLR-RS-02;1;vestuario;Produto nunca chegou. SAC não consegue resolver. Uma vergonha.;negativo;entrega
+AV0979;24/07/2024;loja_fisica;Sudeste;VLR-RJ-01;3;calcados;O produto chegou, mas demorou quase o dobro do prazo previsto.;neutro;entrega
+AV0980;24/03/2024;app;Sul;VLR-PR-01;2;acessorios;Fui mal atendida na loja. A vendedora foi grossa e pouco prestativa.;negativo;atendimento
+AV0981;12/02/2023;site;Norte;VLR-PA-01;4;calcados;Material excelente, muito bem acabado. Recomendo demais!;positivo;qualidade do produto
+AV0982;26/12/2024;site;Norte;VLR-PA-02;5;calcados;Comprei durante a promoção e foi um excelente negócio.;positivo;preço
+AV0983;26/07/2023;loja_fisica;Norte;VLR-PA-02;4;vestuario;Escolhi pelo guia de medidas e ficou perfeito. Recomendo seguir a tabela.;positivo;tamanho e caimento
+AV0984;25/06/2023;loja_fisica;Norte;VLR-RO-01;5;vestuario;A qualidade do tecido é incrível, vale cada centavo.;positivo;qualidade do produto
+AV0985;05/06/2023;app;Centro-Oeste;VLR-DF-01;3;calcados;Qualidade ok mas não é tão boa quanto parece nas fotos.;neutro;qualidade do produto
+AV0986;12/06/2024;site;Nordeste;VLR-PE-01;3;acessorios;O produto chegou, mas demorou quase o dobro do prazo previsto.;neutro;entrega
+AV0987;28/03/2023;loja_fisica;Sudeste;VLR-MG-01;1;acessorios;Nunca mais compro nessa loja. Produto deteriorou em menos de um mês.;negativo;qualidade do produto
+AV0988;07/02/2023;site;Sudeste;VLR-SP-01;2;vestuario;A costura soltou depois da primeira lavagem. Muito decepcionante.;negativo;qualidade do produto
+AV0989;18/11/2023;site;Sul;VLR-SC-02;3;calcados;O produto chegou, mas demorou quase o dobro do prazo previsto.;neutro;entrega
+AV0990;01/04/2024;site;Centro-Oeste;VLR-GO-02;4;calcados;Fui muito bem atendida. A equipe conhece bem os produtos.;positivo;atendimento
+AV0991;26/10/2024;site;Sul;VLR-RS-01;4;acessorios;Caiu certinho! A tabela de tamanhos é muito precisa.;positivo;tamanho e caimento
+AV0992;10/05/2023;loja_fisica;Centro-Oeste;VLR-MT-01;4;calcados;Entrega rápida e produto embalado com cuidado. Aprovadíssimo!;positivo;entrega
+AV0993;13/06/2023;app;Norte;VLR-RO-01;3;calcados;O produto é bonito mas o tamanho ficou um pouco diferente do que esperava. A modelagem é um pouco larga.;neutro;tamanho e caimento
+AV0994;01/06/2024;app;Sul;VLR-SC-02;3;calcados;O produto é bonito mas o tamanho ficou um pouco diferente do que esperava. A modelagem é um pouco larga.;neutro;tamanho e caimento
+AV0995;28/10/2024;loja_fisica;Centro-Oeste;VLR-GO-01;4;vestuario;Nunca me decepcionei com a qualidade dos produtos da Valore. Sempre perfeito.;positivo;qualidade do produto
+AV0996;18/08/2024;app;Centro-Oeste;VLR-GO-03;1;acessorios;O atendente do SAC foi extremamente grosseiro e não resolveu nada.;negativo;atendimento
+AV0997;24/05/2023;loja_fisica;Centro-Oeste;VLR-DF-01;5;calcados;Vale muito o preço. Produto durável e bonito.;positivo;preço
+AV0998;31/05/2023;loja_fisica;Norte;VLR-RO-01;4;vestuario;Escolhi pelo guia de medidas e ficou perfeito. Recomendo seguir a tabela.;positivo;tamanho e caimento
+AV0999;01/04/2024;loja_fisica;Norte;VLR-PA-02;4;vestuario;A qualidade do tecido é incrível, vale cada centavo.;positivo;qualidade do produto
+AV1000;21/08/2024;loja_fisica;Sul;VLR-RS-02;4;acessorios;Tamanho exatamente como descrito. Ficou ótimo.;positivo;tamanho e caimento
